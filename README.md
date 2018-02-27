@@ -7,12 +7,19 @@ A compilation of domain-shift related papers in reinforcement learning
 - [Hierarchical Reinforcement Learning](#hierarchical-reinforcement-learning)
 - [Meta-Learning](#meta-learning)
 - [Transfer-Learning](#transfer-learning)
+- [Few-Shot Learning](#Few-Shot Learning)
 - [TO-DOs](#to-dos)
 
 ## Domain Adaption
 - Awesome Transfer Learning [[github]](https://github.com/artix41/awesome-transfer-learning)
 - A DIRT-T Approach to Unsupervised Domain Adaptation [[pdf]](https://openreview.net/forum?id=H1q-TM-AW&noteId=H1q-TM-AW)
   - Rui Shu, Hung Bui, Hirokazu Narui, Stefano Ermon. ICLR'18
+- Learning Transferrable Representations for Unsupervised Domain Adaptation [[PDF]](https://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation.pdf)
+  - Ozan Sener, Hyun Oh Song, Ashutosh Saxena, Silvio Savarese. NIPS'16
+- Domain Separation Networks [[PDF]](https://arxiv.org/pdf/1608.06019.pdf)
+  - Konstantinos Bousmalis, George Trigeorgis, Nathan Silberman, Dilip Krishnan, Dumitru Erhan. NIPS'16
+- Unsupervised Domain Adaptation with Residual Transfer Networks [[PDF]](https://arxiv.org/pdf/1602.04433.pdf)
+  - Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. NIPS'16
 
 ## Domain Shift in Reinforcement Learning
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[pdf]](https://arxiv.org/abs/1707.08475)
@@ -34,7 +41,7 @@ A compilation of domain-shift related papers in reinforcement learning
 - Adapting Deep Visuomotor Representations with Weak Pairwise Constraints [[pdf]](https://arxiv.org/abs/1511.07111)
   - Eric Tzeng, Coline Devin, Judy Hoffman, Chelsea Finn, Pieter Abbeel, Sergey Levine, Kate Saenko, Trevor Darrell. WAFR'16
 - ADAPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems [[pdf]](https://arxiv.org/abs/1707.04674)
-  - James Harrison, Animesh Garg, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone. arXiv'17
+  - James HarMatching Networks for One Shot Learrison, Animesh Garg, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone. arXiv'17
 - Virtual to Real Reinforcement Learning for Autonomous Driving
   - Y You, X Pan, Z Wang, C Lu. arXiv'17
 - From virtual demonstration to real-world manipulation using LSTM and MDN [[pdf]](https://arxiv.org/abs/1603.03833)
@@ -53,6 +60,10 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Transfer Learning
 - Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1703.02949)
   - Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine. ICLR'17
+  
+## Few-Shot Learning
+- Matching Networks for One Shot Learning [[PDF]](https://arxiv.org/pdf/1606.04080.pdf)
+  - Oriol Vinyals, Charles Blundell, Tim Lillicrap, koray kavukcuoglu, Daan Wierstra. NIPS'16
   
 ## TO-DOs
 - ICLR'17
