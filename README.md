@@ -28,6 +28,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Justin Fu, Katie Luo, Sergey Levine. ICLR'18
 - Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments [[pdf]](https://openreview.net/forum?id=Sk2u1g-0-)
   - Maruan Al-Shedivat, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 oral
+- Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping [[pdf]](https://arxiv.org/abs/1709.07857)
+  - Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke. ICRA'18
   
 ## Hierarchical Reinforcement Learning
 - Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[pdf]](https://arxiv.org/abs/1604.06057)
@@ -38,6 +40,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR'18
   
 ## TO-DOs
+- Levine before 2017
 - ICLR'17
 - NIPS'18
 - NIPS'17
