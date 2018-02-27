@@ -6,7 +6,7 @@ A compilation of domain-shift related papers in reinforcement learning
 - [Domain Shift in Reinforcement Learning](#domain-shift-in-reinforcement-learning)
 - [Hierarchical Reinforcement Learning](#hierarchical-reinforcement-learning)
 - [Meta-Learning](#meta-learning)
-- [Transfer-learning](#transfer-learning)
+- [Transfer-Learning](#transfer-learning)
 - [TO-DOs](#to-dos)
 
 ## Domain Adaption
