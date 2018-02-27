@@ -6,6 +6,7 @@ A compilation of domain-shift related papers in reinforcement learning
 - [Domain Shift in Reinforcement Learning](#domain-shift-in-reinforcement-learning)
 - [Hierarchical Reinforcement Learning](#hierarchical-reinforcement-learning)
 - [Meta-Learning](#meta-learning)
+- [Transfer-learning](#transfer-learning)
 - [TO-DOs](#to-dos)
 
 ## Domain Adaption
@@ -30,6 +31,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Maruan Al-Shedivat, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 oral
 - Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping [[pdf]](https://arxiv.org/abs/1709.07857)
   - Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke. ICRA'18
+- Adapting Deep Visuomotor Representations with Weak Pairwise Constraints [[pdf]](https://arxiv.org/abs/1511.07111)
+  - Eric Tzeng, Coline Devin, Judy Hoffman, Chelsea Finn, Pieter Abbeel, Sergey Levine, Kate Saenko, Trevor Darrell. WAFR'16
   
 ## Hierarchical Reinforcement Learning
 - Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[pdf]](https://arxiv.org/abs/1604.06057)
@@ -38,9 +41,14 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Meta-Learning
 - Meta Learning Shared Hierachies [[pdf]](https://openreview.net/forum?id=SyX0IeWAW)
   - Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR'18
+- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[pdf]](http://arxiv.org/abs/1703.03400)
+  - Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML'18
+  
+## Transfer Learning
+- Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1703.02949)
+  - Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine. ICLR'17
   
 ## TO-DOs
-- Levine before 2017
 - ICLR'17
 - NIPS'18
 - NIPS'17
