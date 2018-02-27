@@ -14,11 +14,11 @@ A compilation of domain-shift related papers in reinforcement learning
 - Awesome Transfer Learning [[github]](https://github.com/artix41/awesome-transfer-learning)
 - A DIRT-T Approach to Unsupervised Domain Adaptation [[pdf]](https://openreview.net/forum?id=H1q-TM-AW&noteId=H1q-TM-AW)
   - Rui Shu, Hung Bui, Hirokazu Narui, Stefano Ermon. ICLR'18
-- Learning Transferrable Representations for Unsupervised Domain Adaptation [[PDF]](https://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation)
+- Learning Transferrable Representations for Unsupervised Domain Adaptation [[pdf]](https://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation)
   - Ozan Sener, Hyun Oh Song, Ashutosh Saxena, Silvio Savarese. NIPS'16
-- Domain Separation Networks [[PDF]](https://arxiv.org/abs/1608.06019)
+- Domain Separation Networks [[pdf]](https://arxiv.org/abs/1608.06019)
   - Konstantinos Bousmalis, George Trigeorgis, Nathan Silberman, Dilip Krishnan, Dumitru Erhan. NIPS'16
-- Unsupervised Domain Adaptation with Residual Transfer Networks [[PDF]](https://arxiv.org/abs/1602.04433)
+- Unsupervised Domain Adaptation with Residual Transfer Networks [[pdf]](https://arxiv.org/abs/1602.04433)
   - Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. NIPS'16
 
 ## Domain Shift in Reinforcement Learning
@@ -62,7 +62,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine. ICLR'17
   
 ## Few-Shot Learning
-- Matching Networks for One Shot Learning [[PDF]](https://arxiv.org/abs/1606.04080)
+- Matching Networks for One Shot Learning [[pdf]](https://arxiv.org/abs/1606.04080)
   - Oriol Vinyals, Charles Blundell, Tim Lillicrap, koray kavukcuoglu, Daan Wierstra. NIPS'16
   
 ## TO-DOs
