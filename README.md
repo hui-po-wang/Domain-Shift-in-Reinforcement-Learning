@@ -57,7 +57,11 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Transfer Learning
 - Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1703.02949)
   - Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine. ICLR'17
-  
+- Improving Deep Reinforcement Learning with Knowledge Transfer [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14787)
+  - Ruben Glatt, Anna Helena Reali Costa. AAAI'17
+- Towards Knowledge Transfer in Deep Reinforcement Learning [[pdf]](http://ieeexplore.ieee.org/document/7839568/)
+  - Ruben Glatt, Felipe Leno da Silva, and Anna Helena Reali Costa. 
+  
 ## Few-Shot Learning
 - Matching Networks for One Shot Learning [[pdf]](https://arxiv.org/abs/1606.04080)
   - Oriol Vinyals, Charles Blundell, Tim Lillicrap, koray kavukcuoglu, Daan Wierstra. NIPS'16
