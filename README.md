@@ -33,6 +33,12 @@ A compilation of domain-shift related papers in reinforcement learning
   - Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke. ICRA'18
 - Adapting Deep Visuomotor Representations with Weak Pairwise Constraints [[pdf]](https://arxiv.org/abs/1511.07111)
   - Eric Tzeng, Coline Devin, Judy Hoffman, Chelsea Finn, Pieter Abbeel, Sergey Levine, Kate Saenko, Trevor Darrell. WAFR'16
+- ADAPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems [[pdf]](https://arxiv.org/abs/1707.04674)
+  - James Harrison, Animesh Garg, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone. arXiv'17
+- Virtual to Real Reinforcement Learning for Autonomous Driving
+  - Y You, X Pan, Z Wang, C Lu. arXiv'17
+- From virtual demonstration to real-world manipulation using LSTM and MDN [[pdf]](https://arxiv.org/abs/1603.03833)
+  - Rouhollah Rahmatizadeh, Pooya Abolghasemi, Aman Behal, Ladislau Bölöni. AAAI'18
   
 ## Hierarchical Reinforcement Learning
 - Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[pdf]](https://arxiv.org/abs/1604.06057)
