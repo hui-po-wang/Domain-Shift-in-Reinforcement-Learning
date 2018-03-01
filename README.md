@@ -8,6 +8,7 @@ A compilation of domain-shift related papers in reinforcement learning
 - [Meta-Learning](#meta-learning)
 - [Transfer-Learning](#transfer-learning)
 - [Few-Shot Learning](#few-shot-learning)
+- [Others](#others)
 - [Key Papers](#key-papers)
 - [TO-DOs](#to-dos)
 
@@ -65,6 +66,10 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Few-Shot Learning
 - Matching Networks for One Shot Learning [[pdf]](https://arxiv.org/abs/1606.04080)
   - Oriol Vinyals, Charles Blundell, Tim Lillicrap, koray kavukcuoglu, Daan Wierstra. NIPS'16
+
+## Others
+- Recurrent Environment Simulators [[pdf]](https://arxiv.org/abs/1704.02254)
+  - Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, Shakir Mohamed. arXiv'17
   
 ## Key Papers
 - Transfer from Simulation to Real World through Learning Deep Inverse Dynamics Model [[pdf]](https://arxiv.org/abs/1610.03518)
