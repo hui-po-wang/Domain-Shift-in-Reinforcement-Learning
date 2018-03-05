@@ -14,7 +14,7 @@ A compilation of domain-shift related papers in reinforcement learning
 
 ## Domain Adaption
 - Awesome Transfer Learning [[github]](https://github.com/artix41/awesome-transfer-learning)
-- A DIRT-T Approach to Unsupervised Domain Adaptation [[pdf]](https://openreview.net/forum?id=H1q-TM-AW&noteId=H1q-TM-AW)
+- (HP) A DIRT-T Approach to Unsupervised Domain Adaptation [[pdf]](https://openreview.net/forum?id=H1q-TM-AW&noteId=H1q-TM-AW)
   - Rui Shu, Hung Bui, Hirokazu Narui, Stefano Ermon. ICLR'18
 - Learning Transferrable Representations for Unsupervised Domain Adaptation [[pdf]](https://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation)
   - Ozan Sener, Hyun Oh Song, Ashutosh Saxena, Silvio Savarese. NIPS'16
