@@ -47,8 +47,10 @@ A compilation of domain-shift related papers in reinforcement learning
   - Y You, X Pan, Z Wang, C Lu. arXiv'17
 - From virtual demonstration to real-world manipulation using LSTM and MDN [[pdf]](https://arxiv.org/abs/1603.03833)
   - Rouhollah Rahmatizadeh, Pooya Abolghasemi, Aman Behal, Ladislau Bölöni. AAAI'18
-- Bridging the Gap Between Simulation and Reality [[pdf]](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1834.pdf)
+- (HP) Bridging the Gap Between Simulation and Reality [[pdf]](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1834.pdf)
   - Josiah P. Hanna
+- Grounded Action Transformation for Robot Learning in Simulation [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14993/14107)
+  - JP Hanna, P Stone. AAAI'17
   
 ## Hierarchical Reinforcement Learning
 - Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[pdf]](https://arxiv.org/abs/1604.06057)
@@ -75,6 +77,10 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Others
 - Recurrent Environment Simulators [[pdf]](https://arxiv.org/abs/1704.02254)
   - Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, Shakir Mohamed. arXiv'17
+### Evaluating performance of policies
+- Bootstrapping with models: Confidence intervals for off-policy evaluation [[pdf]](http://delivery.acm.org/10.1145/3100000/3091205/p538-hanna.pdf?ip=140.113.194.48&id=3091205&acc=ACTIVE%20SERVICE&key=AF37130DAFA4998B%2E7DDA227B4DBFAC43%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520396005_74ef752694d46f6b30d4f9ba8d52b904)
+  - Josiah P. Hanna, Peter Stone, and Scott Niekum. AAMAS'17
+
   
 ## Key Papers
 - (HP) Transfer from Simulation to Real World through Learning Deep Inverse Dynamics Model [[pdf]](https://arxiv.org/abs/1610.03518) [[slides]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/slides/deeprl-inverse.pdf)
