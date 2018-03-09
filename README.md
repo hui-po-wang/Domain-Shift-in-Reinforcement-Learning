@@ -60,7 +60,7 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Meta-Learning
 - Meta Learning Shared Hierachies [[pdf]](https://openreview.net/forum?id=SyX0IeWAW)
   - Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR'18
-- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[pdf]](http://arxiv.org/abs/1703.03400)
+- (WC)Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[pdf]](http://arxiv.org/abs/1703.03400)
   - Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML'18
   
 ## Transfer Learning
