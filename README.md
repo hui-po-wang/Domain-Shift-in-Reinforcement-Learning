@@ -24,7 +24,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Konstantinos Bousmalis, George Trigeorgis, Nathan Silberman, Dilip Krishnan, Dumitru Erhan. NIPS'16
 - Unsupervised Domain Adaptation with Residual Transfer Networks [[pdf]](https://arxiv.org/abs/1602.04433)
   - Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. NIPS'16
-- Multi-Adversarial Domain Adaptation. [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf) 
+- (HP) Multi-Adversarial Domain Adaptation. [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf) 
    - Zhongyi Pei, Zhangjie Cao, Mingsheng Long, and Jianmin Wang. AAAI'18
   
 
