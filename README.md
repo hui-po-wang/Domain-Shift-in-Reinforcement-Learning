@@ -43,7 +43,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Justin Fu, Katie Luo, Sergey Levine. ICLR'18
 - Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments [[pdf]](https://openreview.net/forum?id=Sk2u1g-0-)
   - Maruan Al-Shedivat, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 oral
-- (WC)Adapting Deep Visuomotor Representations with Weak Pairwise Constraints [[pdf]](https://arxiv.org/abs/1511.07111)
+- (WC) Adapting Deep Visuomotor Representations with Weak Pairwise Constraints [[pdf]](https://arxiv.org/abs/1511.07111)
   - Eric Tzeng, Coline Devin, Judy Hoffman, Chelsea Finn, Pieter Abbeel, Sergey Levine, Kate Saenko, Trevor Darrell. WAFR'16
 - Virtual to Real Reinforcement Learning for Autonomous Driving
   - Y You, X Pan, Z Wang, C Lu. arXiv'17
@@ -61,8 +61,8 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Meta-Learning
 - Meta Learning Shared Hierachies [[pdf]](https://openreview.net/forum?id=SyX0IeWAW)
   - Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR'18
-- (WC)Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[pdf]](http://arxiv.org/abs/1703.03400)
-  - Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML'18
+- (WC) Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[pdf]](http://arxiv.org/abs/1703.03400)
+  - Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML'17
   
 ## Transfer Learning
 - Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1703.02949)
