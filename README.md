@@ -71,6 +71,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Ruben Glatt, Anna Helena Reali Costa. AAAI'17
 - Towards Knowledge Transfer in Deep Reinforcement Learning [[pdf]](http://ieeexplore.ieee.org/document/7839568/)
   - Ruben Glatt, Felipe Leno da Silva, and Anna Helena Reali Costa. 
+- Pose-Robust Face Recognition via Deep Residual Equivariant Mapping [[pdf]](https://arxiv.org/abs/1803.00839)
+  - Kaidi Cao, Yu Rong, Cheng Li, Xiaoou Tang, Chen Change Loy. CVPR'18
   
 ## Few-Shot Learning
 - Matching Networks for One Shot Learning [[pdf]](https://arxiv.org/abs/1606.04080)
@@ -101,6 +103,4 @@ A compilation of domain-shift related papers in reinforcement learning
   - Stephen James, Andrew J. Davison, Edward Johns. CoRL'17
   
 ## TO-DOs
-- ICLR'17
-- NIPS'18
-- NIPS'17
+
