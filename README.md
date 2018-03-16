@@ -55,7 +55,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - JP Hanna, P Stone. AAAI'17
   
 ## Hierarchical Reinforcement Learning
-- (cychai)Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[pdf]](https://arxiv.org/abs/1604.06057)
+- (Stanley)Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[pdf]](https://arxiv.org/abs/1604.06057)
   - Tejas D. Kulkarni, Karthik R. Narasimhan, Ardavan Saeedi, Joshua B. Tenenbaum. NIPS'16
   
 ## Meta-Learning
@@ -99,7 +99,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - James HarMatching Networks for One Shot Learrison, Animesh Garg, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone. arXiv'17  ISRR'17
 - (HP) Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World [[pdf]](https://arxiv.org/abs/1703.06907)
   - Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel. IROS'17
-- (cychai)Transferring End-to-End Visuomotor Control from Simulation to Real World for a Multi-Stage Task [[pdf]](https://arxiv.org/abs/1707.02267)
+- (Stanley)Transferring End-to-End Visuomotor Control from Simulation to Real World for a Multi-Stage Task [[pdf]](https://arxiv.org/abs/1707.02267)
   - Stephen James, Andrew J. Davison, Edward Johns. CoRL'17
   
 ## TO-DOs
