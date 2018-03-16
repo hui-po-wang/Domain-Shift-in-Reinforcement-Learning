@@ -37,7 +37,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Jiayuan Mao, Honghua Dong, Joseph J. Lim. ICLR'18
 - Learning an Embedding Space for Transferable Robot Skills [[pdf]](https://openreview.net/forum?id=rk07ZXZRb)
   - Karol Hausman, Jost Tobias Springenberg, Ziyu Wang, Nicolas Heess, Martin Riedmiller. ICLR'18
-- Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning [[pdf]](https://openreview.net/forum?id=SJJQVZW0b)
+- (Stanley)Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning [[pdf]](https://openreview.net/forum?id=SJJQVZW0b)
   - Tianmin Shu, Caiming Xiong, Richard Socher. ICLR'18
 - Learning Robust Rewards with Adverserial Inverse Reinforcement Learning [[pdf]](https://openreview.net/forum?id=rkHywl-A-)
   - Justin Fu, Katie Luo, Sergey Levine. ICLR'18
