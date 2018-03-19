@@ -112,9 +112,9 @@ A compilation of domain-shift related papers in reinforcement learning
 - Modular Continual Learning in a Unified Visual Environment [[pdf]](https://openreview.net/forum?id=rkPLzgZAZ)
   - Kevin T. Feigelis, Blue Sheffer, Daniel L. K. Yamins. ICLR'18
 - Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments [[pdf]](https://openreview.net/forum?id=Sk2u1g-0-)
-  - Maruan Al-Shedivat, alshedivat@cs.cmu.edu, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 Oral
+  - Maruan Al-Shedivat, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 Oral
 - Recasting Gradient-Based Meta-Learning as Hierarchical Bayes [[pdf]](https://openreview.net/forum?id=BJ_UL-k0b)
-  - Erin Grant, eringrant@berkeley.edu, Chelsea Finn, Sergey Levine, Trevor Darrell, Thomas Griffiths. ICLR'18
+  - Erin Grant, Chelsea Finn, Sergey Levine, Trevor Darrell, Thomas Griffiths. ICLR'18
 - Universal Agent for Disentangling Environments and Tasks [[pdf]](https://openreview.net/forum?id=B1mvVm-C-)
   - Jiayuan Mao, Honghua Dong, Joseph J. Lim. ICLR'18
 
