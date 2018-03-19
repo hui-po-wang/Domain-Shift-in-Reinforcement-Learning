@@ -35,8 +35,6 @@ A compilation of domain-shift related papers in reinforcement learning
   - Chris Paxton, Kapil Katyal, Christian Rupprecht, Raman Arora, Gregory D. Hager. arXiv'17
 - Universal Agent for Disentangling Environments and Tasks [[pdf]](https://openreview.net/forum?id=B1mvVm-C-)
   - Jiayuan Mao, Honghua Dong, Joseph J. Lim. ICLR'18
-- Learning an Embedding Space for Transferable Robot Skills [[pdf]](https://openreview.net/forum?id=rk07ZXZRb)
-  - Karol Hausman, Jost Tobias Springenberg, Ziyu Wang, Nicolas Heess, Martin Riedmiller. ICLR'18
 - (Stanley)Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning [[pdf]](https://openreview.net/forum?id=SJJQVZW0b)
   - Tianmin Shu, Caiming Xiong, Richard Socher. ICLR'18
 - Learning Robust Rewards with Adverserial Inverse Reinforcement Learning [[pdf]](https://openreview.net/forum?id=rkHywl-A-)
@@ -57,12 +55,20 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Hierarchical Reinforcement Learning
 - (Stanley)Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[pdf]](https://arxiv.org/abs/1604.06057)
   - Tejas D. Kulkarni, Karthik R. Narasimhan, Ardavan Saeedi, Joshua B. Tenenbaum. NIPS'16
+- Learning an Embedding Space for Transferable Robot Skills [[pdf]](https://openreview.net/forum?id=rk07ZXZRb)
+  - Karol Hausman, Jost Tobias Springenberg, Ziyu Wang, Nicolas Heess, Martin Riedmiller. ICLR'18
   
 ## Meta-Learning
 - Meta Learning Shared Hierachies [[pdf]](https://openreview.net/forum?id=SyX0IeWAW)
   - Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR'18
 - (WC) Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[pdf]](http://arxiv.org/abs/1703.03400)
   - Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML'17
+- Prototypical Networks for Few-shot Learning [[pdf]](https://arxiv.org/abs/1703.05175)
+  - Jake Snell, Kevin Swersky, Richard S. Zemel. arXiv'17
+- Meta-Learning for Semi-Supervised Few-Shot Classification [[pdf]](https://openreview.net/forum?id=HJcSzz-CZ)
+  - Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel. ICLR'18
+- Meta-Learning Shared Hierachies [[pdf]](https://openreview.net/forum?id=SyX0IeWAW)
+  - Kevin Frans, kevinfrans2@gmail.com, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR'18
   
 ## Transfer Learning
 - Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1703.02949)
@@ -103,6 +109,14 @@ A compilation of domain-shift related papers in reinforcement learning
   - Stephen James, Andrew J. Davison, Edward Johns. CoRL'17
 - Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping [[pdf]](https://arxiv.org/abs/1709.07857)
   - Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke
+- Modular Continual Learning in a Unified Visual Environment [[pdf]](https://openreview.net/forum?id=rkPLzgZAZ)
+  - Kevin T. Feigelis, Blue Sheffer, Daniel L. K. Yamins. ICLR'18
+- Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments [[pdf]](https://openreview.net/forum?id=Sk2u1g-0-)
+  - Maruan Al-Shedivat, alshedivat@cs.cmu.edu, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 Oral
+- Recasting Gradient-Based Meta-Learning as Hierarchical Bayes [[pdf]](https://openreview.net/forum?id=BJ_UL-k0b)
+  - Erin Grant, eringrant@berkeley.edu, Chelsea Finn, Sergey Levine, Trevor Darrell, Thomas Griffiths. ICLR'18
+- Universal Agent for Disentangling Environments and Tasks [[pdf]](https://openreview.net/forum?id=B1mvVm-C-)
+  - Jiayuan Mao, Honghua Dong, Joseph J. Lim. ICLR'18
 
 ## TO-DOs
 
