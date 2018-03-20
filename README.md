@@ -113,7 +113,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Maruan Al-Shedivat, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 Oral
 - Recasting Gradient-Based Meta-Learning as Hierarchical Bayes [[pdf]](https://openreview.net/forum?id=BJ_UL-k0b)
   - Erin Grant, Chelsea Finn, Sergey Levine, Trevor Darrell, Thomas Griffiths. ICLR'18
-- Universal Agent for Disentangling Environments and Tasks [[pdf]](https://openreview.net/forum?id=B1mvVm-C-)
+- (BS) Universal Agent for Disentangling Environments and Tasks [[pdf]](https://openreview.net/forum?id=B1mvVm-C-)
   - Jiayuan Mao, Honghua Dong, Joseph J. Lim. ICLR'18
 
 ## TO-DOs
