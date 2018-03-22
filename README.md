@@ -63,6 +63,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Karol Hausman, Jost Tobias Springenberg, Ziyu Wang, Nicolas Heess, Martin Riedmiller. ICLR'18
   
 ## Meta-Learning
+- **Awesome meta-learning** [[link]](https://github.com/songrotek/Meta-Learning-Papers)
 - Meta Learning Shared Hierachies [[pdf]](https://openreview.net/forum?id=SyX0IeWAW)
   - Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR'18
 - (WC) Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[pdf]](http://arxiv.org/abs/1703.03400)
@@ -71,6 +72,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Jake Snell, Kevin Swersky, Richard S. Zemel. arXiv'17
 - Meta-Learning for Semi-Supervised Few-Shot Classification [[pdf]](https://openreview.net/forum?id=HJcSzz-CZ)
   - Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel. ICLR'18
+- Learning to learn by gradient descent by gradient descent [[pdf]](https://arxiv.org/abs/1606.04474)
+  - Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas. arXiv'16
   
 ## Transfer Learning
 - Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1703.02949)
@@ -107,7 +110,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Stephen James, Andrew J. Davison, Edward Johns. CoRL'17
 - Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping [[pdf]](https://arxiv.org/abs/1709.07857)
   - Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke
-- （JJ） Modular Continual Learning in a Unified Visual Environment [[pdf]](https://openreview.net/forum?id=rkPLzgZAZ)
+- (JJ) Modular Continual Learning in a Unified Visual Environment [[pdf]](https://openreview.net/forum?id=rkPLzgZAZ)
   - Kevin T. Feigelis, Blue Sheffer, Daniel L. K. Yamins. ICLR'18
 - (HP) Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments [[pdf]](https://openreview.net/forum?id=Sk2u1g-0-)
   - Maruan Al-Shedivat, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 Oral
