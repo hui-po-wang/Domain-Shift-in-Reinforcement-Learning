@@ -39,7 +39,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Tianmin Shu, Caiming Xiong, Richard Socher. ICLR'18
 - Learning Robust Rewards with Adverserial Inverse Reinforcement Learning [[pdf]](https://openreview.net/forum?id=rkHywl-A-)
   - Justin Fu, Katie Luo, Sergey Levine. ICLR'18
-- (WC) Adapting Deep Visuomotor Representations with Weak Pairwise Constraints [[pdf]](https://arxiv.org/abs/1511.07111)
+- (WC) Adapting Deep Visuomotor Representations with Weak Pairwise Constraints [[pdf]](https://arxiv.org/abs/1511.07111) [[ppt]](https://drive.google.com/file/d/1w9jSR7tRiUAQhKRjkiOZUPB0XPU_uAYv/view?usp=sharing)
   - Eric Tzeng, Coline Devin, Judy Hoffman, Chelsea Finn, Pieter Abbeel, Sergey Levine, Kate Saenko, Trevor Darrell. WAFR'16
 - Virtual to Real Reinforcement Learning for Autonomous Driving
   - Y You, X Pan, Z Wang, C Lu. arXiv'17
@@ -66,7 +66,7 @@ A compilation of domain-shift related papers in reinforcement learning
 - **Awesome meta-learning** [[link]](https://github.com/songrotek/Meta-Learning-Papers)
 - Meta Learning Shared Hierachies [[pdf]](https://openreview.net/forum?id=SyX0IeWAW)
   - Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR'18
-- (WC) Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[pdf]](http://arxiv.org/abs/1703.03400)
+- (WC) Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[pdf]](http://arxiv.org/abs/1703.03400) [[ppt]](https://drive.google.com/file/d/1R4mPfeLyvHeHUP4TI0-7Sp33JNhqvZTp/view?usp=sharing)
   - Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML'17
 - Prototypical Networks for Few-shot Learning [[pdf]](https://arxiv.org/abs/1703.05175)
   - Jake Snell, Kevin Swersky, Richard S. Zemel. arXiv'17
@@ -114,7 +114,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Kevin T. Feigelis, Blue Sheffer, Daniel L. K. Yamins. ICLR'18
 - (HP) Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments [[pdf]](https://openreview.net/forum?id=Sk2u1g-0-)
   - Maruan Al-Shedivat, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 Oral
-- Recasting Gradient-Based Meta-Learning as Hierarchical Bayes [[pdf]](https://openreview.net/forum?id=BJ_UL-k0b)
+- (WC) Recasting Gradient-Based Meta-Learning as Hierarchical Bayes [[pdf]](https://openreview.net/forum?id=BJ_UL-k0b)
   - Erin Grant, Chelsea Finn, Sergey Levine, Trevor Darrell, Thomas Griffiths. ICLR'18
 - (BS) Universal Agent for Disentangling Environments and Tasks [[pdf]](https://openreview.net/forum?id=B1mvVm-C-)
   - Jiayuan Mao, Honghua Dong, Joseph J. Lim. ICLR'18
