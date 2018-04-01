@@ -68,9 +68,9 @@ A compilation of domain-shift related papers in reinforcement learning
   - Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR'18
 - (WC) Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[pdf]](http://arxiv.org/abs/1703.03400) [[ppt]](https://drive.google.com/file/d/1R4mPfeLyvHeHUP4TI0-7Sp33JNhqvZTp/view?usp=sharing)
   - Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML'17
-- Prototypical Networks for Few-shot Learning [[pdf]](https://arxiv.org/abs/1703.05175)
+- (Stefanie) Prototypical Networks for Few-shot Learning [[pdf]](https://arxiv.org/abs/1703.05175)
   - Jake Snell, Kevin Swersky, Richard S. Zemel. arXiv'17
-- (Stefanie) Meta-Learning for Semi-Supervised Few-Shot Classification [[pdf]](https://openreview.net/forum?id=HJcSzz-CZ)
+- Meta-Learning for Semi-Supervised Few-Shot Classification [[pdf]](https://openreview.net/forum?id=HJcSzz-CZ)
   - Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel. ICLR'18
 - Learning to learn by gradient descent by gradient descent [[pdf]](https://arxiv.org/abs/1606.04474)
   - Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas. arXiv'16
