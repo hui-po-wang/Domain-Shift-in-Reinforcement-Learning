@@ -1,4 +1,4 @@
-# Domain-Shift-in-Reinforcement-Learning 
+# Domain-Shift-in-Reinforcement-Learning
 A compilation of domain-shift related papers in reinforcement learning
 
 ## Contents
@@ -26,9 +26,9 @@ A compilation of domain-shift related papers in reinforcement learning
   - Konstantinos Bousmalis, George Trigeorgis, Nathan Silberman, Dilip Krishnan, Dumitru Erhan. NIPS'16
 - Unsupervised Domain Adaptation with Residual Transfer Networks [[pdf]](https://arxiv.org/abs/1602.04433)
   - Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. NIPS'16
-- (HP) Multi-Adversarial Domain Adaptation. [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf) 
+- (HP) Multi-Adversarial Domain Adaptation. [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf)
    - Zhongyi Pei, Zhangjie Cao, Mingsheng Long, and Jianmin Wang. AAAI'18
-  
+
 
 ## Domain Shift in Reinforcement Learning
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[pdf]](https://arxiv.org/abs/1707.08475)
@@ -55,13 +55,13 @@ A compilation of domain-shift related papers in reinforcement learning
 ### Domain Randomization
 - (HP) Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World [[pdf]](https://arxiv.org/abs/1703.06907)
   - Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel. IROS'17
-  
+
 ## Hierarchical Reinforcement Learning
 - (Stanley)Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[pdf]](https://arxiv.org/abs/1604.06057)
   - Tejas D. Kulkarni, Karthik R. Narasimhan, Ardavan Saeedi, Joshua B. Tenenbaum. NIPS'16
 - Learning an Embedding Space for Transferable Robot Skills [[pdf]](https://openreview.net/forum?id=rk07ZXZRb)
   - Karol Hausman, Jost Tobias Springenberg, Ziyu Wang, Nicolas Heess, Martin Riedmiller. ICLR'18
-  
+
 ## Meta-Learning
 - **Awesome meta-learning** [[link]](https://github.com/songrotek/Meta-Learning-Papers)
 - Meta Learning Shared Hierachies [[pdf]](https://openreview.net/forum?id=SyX0IeWAW)
@@ -70,18 +70,18 @@ A compilation of domain-shift related papers in reinforcement learning
   - Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML'17
 - Prototypical Networks for Few-shot Learning [[pdf]](https://arxiv.org/abs/1703.05175)
   - Jake Snell, Kevin Swersky, Richard S. Zemel. arXiv'17
-- Meta-Learning for Semi-Supervised Few-Shot Classification [[pdf]](https://openreview.net/forum?id=HJcSzz-CZ)
+- (Stefanie) Meta-Learning for Semi-Supervised Few-Shot Classification [[pdf]](https://openreview.net/forum?id=HJcSzz-CZ)
   - Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel. ICLR'18
 - Learning to learn by gradient descent by gradient descent [[pdf]](https://arxiv.org/abs/1606.04474)
   - Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas. arXiv'16
-  
+
 ## Transfer Learning
 - Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1703.02949)
   - Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine. ICLR'17
 - Improving Deep Reinforcement Learning with Knowledge Transfer [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14787)
   - Ruben Glatt, Anna Helena Reali Costa. AAAI'17
 - Towards Knowledge Transfer in Deep Reinforcement Learning [[pdf]](http://ieeexplore.ieee.org/document/7839568/)
-  - Ruben Glatt, Felipe Leno da Silva, and Anna Helena Reali Costa. 
+  - Ruben Glatt, Felipe Leno da Silva, and Anna Helena Reali Costa.
 - Pose-Robust Face Recognition via Deep Residual Equivariant Mapping [[pdf]](https://arxiv.org/abs/1803.00839)
   - Kaidi Cao, Yu Rong, Cheng Li, Xiaoou Tang, Chen Change Loy. CVPR'18
   
@@ -96,11 +96,11 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Research Blogs
 - Closing the Simulation-to-Reality Gap for Deep Robotic Learning [[link]](https://research.googleblog.com/2017/10/closing-simulation-to-reality-gap-for.html)
   - Google, 2017.
-  
+
 ## Others
 - Recurrent Environment Simulators [[pdf]](https://arxiv.org/abs/1704.02254)
   - Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, Shakir Mohamed. arXiv'17
-  
+
 ## Key Papers
 - (JJ) Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping [[pdf]](https://arxiv.org/abs/1709.07857)
   - Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke. ICRA'18
@@ -120,4 +120,3 @@ A compilation of domain-shift related papers in reinforcement learning
   - Jiayuan Mao, Honghua Dong, Joseph J. Lim. ICLR'18
 
 ## TO-DOs
-
