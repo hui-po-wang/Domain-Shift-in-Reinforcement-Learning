@@ -22,7 +22,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Rui Shu, Hung Bui, Hirokazu Narui, Stefano Ermon. ICLR'18
 - Learning Transferrable Representations for Unsupervised Domain Adaptation [[pdf]](https://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation)
   - Ozan Sener, Hyun Oh Song, Ashutosh Saxena, Silvio Savarese. NIPS'16
-- Domain Separation Networks [[pdf]](https://arxiv.org/abs/1608.06019)
+- (WC) Domain Separation Networks [[pdf]](https://arxiv.org/abs/1608.06019)
   - Konstantinos Bousmalis, George Trigeorgis, Nathan Silberman, Dilip Krishnan, Dumitru Erhan. NIPS'16
 - Unsupervised Domain Adaptation with Residual Transfer Networks [[pdf]](https://arxiv.org/abs/1602.04433)
   - Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. NIPS'16
