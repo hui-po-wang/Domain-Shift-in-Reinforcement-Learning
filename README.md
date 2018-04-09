@@ -89,6 +89,8 @@ A compilation of domain-shift related papers in reinforcement learning
 - (WC) Matching Networks for One Shot Learning [[pdf]](https://arxiv.org/abs/1606.04080)
   - Oriol Vinyals, Charles Blundell, Tim Lillicrap, koray kavukcuoglu, Daan Wierstra. NIPS'16
 - (WC) Learning to Compare Relation Network for Few Shot Learning [[pdf]](https://arxiv.org/abs/1711.06025) 
+  - Flood Sung, Yongxin Tang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales
+
 ## Evaluating performance of policies
 - Bootstrapping with models: Confidence intervals for off-policy evaluation [[pdf]](http://delivery.acm.org/10.1145/3100000/3091205/p538-hanna.pdf?ip=140.113.194.48&id=3091205&acc=ACTIVE%20SERVICE&key=AF37130DAFA4998B%2E7DDA227B4DBFAC43%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520396005_74ef752694d46f6b30d4f9ba8d52b904)
   - Josiah P. Hanna, Peter Stone, and Scott Niekum. AAMAS'17
