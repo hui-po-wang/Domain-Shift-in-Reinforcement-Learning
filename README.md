@@ -49,6 +49,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Josiah P. Hanna
 - Grounded Action Transformation for Robot Learning in Simulation [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14993/14107)
   - JP Hanna, P Stone. AAAI'17
+ - (BS)Learning to Navigate in Cities Without a Map [[pdf]](https://arxiv.org/pdf/1804.00168.pdf)
+    - DeepMind. arXiv'18
 ### Inverse Dynamic Model
 - (HP) Transfer from Simulation to Real World through Learning Deep Inverse Dynamics Model [[pdf]](https://arxiv.org/abs/1610.03518) [[slides]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/slides/deeprl-inverse.pdf)
   - Paul Christiano, Zain Shah, Igor Mordatch, Jonas Schneider, Trevor Blackwell, Joshua Tobin, Pieter Abbeel, Wojciech Zaremba. arXiv'16
