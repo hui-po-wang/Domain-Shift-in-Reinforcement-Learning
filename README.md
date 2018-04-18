@@ -28,6 +28,16 @@ A compilation of domain-shift related papers in reinforcement learning
   - Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. NIPS'16
 - (HP) Multi-Adversarial Domain Adaptation. [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf)
    - Zhongyi Pei, Zhangjie Cao, Mingsheng Long, and Jianmin Wang. AAAI'18
+- (HP) Unupervised Domain Adaptation by Backpropagation [[pdf]](https://arxiv.org/abs/1409.7495)
+  - Yaroslav Ganin, Victor Lempitsky. arXiv'14
+- Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/abs/1702.05464)
+  - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
+- Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1612.05424)
+  - Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, Dilip Krishnan. CVPR'17
+- Revisiting Batch Normalization For Practical Domain Adaptation [[pdf]](https://arxiv.org/abs/1603.04779)
+  - Yanghao Li, Naiyan Wang, Jianping Shi, Jiaying Liu, Xiaodi Hou. arXiv'16
+- CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[pdf]](https://arxiv.org/abs/1711.03213)
+  - Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei A. Efros, Trevor Darrell. arXiv'17
 
 
 ## Domain Shift in Reinforcement Learning
