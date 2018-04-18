@@ -30,6 +30,8 @@ A compilation of domain-shift related papers in reinforcement learning
    - Zhongyi Pei, Zhangjie Cao, Mingsheng Long, and Jianmin Wang. AAAI'18
 - (HP) Multimodal Unsupervised Image-to-Image Translation [[pdf]](https://arxiv.org/abs/1804.04732)
   - Xun Huang, Ming-Yu Liu, Serge Belongie, Jan Kautz. arXiv'18
+- Learning to cluster in order to transfer across domains and tasks [[pdf]](https://arxiv.org/abs/1711.10125)
+  - Yen-Chang Hsu, Zhaoyang Lv, Zsolt Kira. ICLR'18
 - (HP) Unupervised Domain Adaptation by Backpropagation [[pdf]](https://arxiv.org/abs/1409.7495)
   - Yaroslav Ganin, Victor Lempitsky. arXiv'14
 - Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/abs/1702.05464)
