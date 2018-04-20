@@ -125,6 +125,10 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Self-Training
 - Learning How to Self-Learn: Enhancing Self-Training Using Neural Reinforcement Learning [[pdf]](https://arxiv.org/pdf/1804.05734.pdf)
   - Chenhua Chen, Yue Zhang. arXiv'18
+- A SELF-TRAINING METHOD FOR SEMI-SUPERVISED GANS [[paf]](https://arxiv.org/pdf/1710.10313.pdf)
+  - Alan Do-Omri, Dalei Wu & Xiaohua Liu. arXiv'17
+- Domain Adaptation for Learning from Label Proportions Using Self-Training [[pdf]](http://cs.iit.edu/~culotta/pubs/ehsan16domain.pdf)
+  - Ehsan Mohammady Ardehaly, Aron Culotta. IJCAI'16
 
 ## Research Blogs
 - Closing the Simulation-to-Reality Gap for Deep Robotic Learning [[link]](https://research.googleblog.com/2017/10/closing-simulation-to-reality-gap-for.html)
