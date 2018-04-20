@@ -36,7 +36,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Yaroslav Ganin, Victor Lempitsky. arXiv'14
 - (BS) Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/abs/1702.05464)
   - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
-- Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1612.05424)
+- (WC) Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1612.05424)
   - Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, Dilip Krishnan. CVPR'17
 - Revisiting Batch Normalization For Practical Domain Adaptation [[pdf]](https://arxiv.org/abs/1603.04779)
   - Yanghao Li, Naiyan Wang, Jianping Shi, Jiaying Liu, Xiaodi Hou. arXiv'16
