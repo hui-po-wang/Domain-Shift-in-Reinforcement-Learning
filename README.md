@@ -11,6 +11,7 @@ A compilation of domain-shift related papers in reinforcement learning
 - [Transfer-Learning](#transfer-learning)
 - [Few-Shot Learning](#few-shot-learning)
 - [Evaluating Performance of Policies](#evaluating-performance-of-policies)
+- [Self-Training](#self-training)
 - [Research Blogs](#research-blogs)
 - [Others](#others)
 - [Key Papers](#key-papers)
@@ -114,6 +115,10 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Evaluating performance of policies
 - Bootstrapping with models: Confidence intervals for off-policy evaluation [[pdf]](http://delivery.acm.org/10.1145/3100000/3091205/p538-hanna.pdf?ip=140.113.194.48&id=3091205&acc=ACTIVE%20SERVICE&key=AF37130DAFA4998B%2E7DDA227B4DBFAC43%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520396005_74ef752694d46f6b30d4f9ba8d52b904)
   - Josiah P. Hanna, Peter Stone, and Scott Niekum. AAMAS'17
+
+## Self-Training
+- Learning How to Self-Learn: Enhancing Self-Training Using Neural Reinforcement Learning [[pdf]](https://arxiv.org/pdf/1804.05734.pdf)
+  - Chenhua Chen, Yue Zhang. arXiv'18
 
 ## Research Blogs
 - Closing the Simulation-to-Reality Gap for Deep Robotic Learning [[link]](https://research.googleblog.com/2017/10/closing-simulation-to-reality-gap-for.html)
