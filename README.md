@@ -43,12 +43,10 @@ A compilation of domain-shift related papers in reinforcement learning
   - Yanghao Li, Naiyan Wang, Jianping Shi, Jiaying Liu, Xiaodi Hou. arXiv'16
 - CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[pdf]](https://arxiv.org/abs/1711.03213)
   - Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei A. Efros, Trevor Darrell. arXiv'17
-- Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[pdf]](https://arxiv.org/abs/1703.06868)
+- (HP) Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[pdf]](https://arxiv.org/abs/1703.06868)
   - Xun Huang, Serge Belongie. ICCV'17
 - Exploring the structure of a real-time, arbitrary neural artistic stylization network [[pdf]](https://arxiv.org/abs/1705.06830)
   - Golnaz Ghiasi, Honglak Lee, Manjunath Kudlur, Vincent Dumoulin, Jonathon Shlens. BMVC'17
-- A Learned Representation For Artistic Style [[pdf]](https://arxiv.org/abs/1610.07629)
-  - Vincent Dumoulin, Jonathon Shlens, Manjunath Kudlur. ICLR'18
 - ZM-Net: Real-time Zero-shot Image Manipulation Network [[pdf]](https://arxiv.org/abs/1703.07255)
   - Hao Wang, Xiaodan Liang, Hao Zhang, Dit-Yan Yeung, Eric P. Xing. arXiv'17
 
