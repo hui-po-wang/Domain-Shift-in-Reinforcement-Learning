@@ -40,7 +40,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
 - (WC) Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1612.05424)
   - Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, Dilip Krishnan. CVPR'17
-- Revisiting Batch Normalization For Practical Domain Adaptation [[pdf]](https://arxiv.org/abs/1603.04779)
+- (BS) Revisiting Batch Normalization For Practical Domain Adaptation [[pdf]](https://arxiv.org/abs/1603.04779)
   - Yanghao Li, Naiyan Wang, Jianping Shi, Jiaying Liu, Xiaodi Hou. arXiv'16
 - CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[pdf]](https://arxiv.org/abs/1711.03213)
   - Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei A. Efros, Trevor Darrell. arXiv'17
