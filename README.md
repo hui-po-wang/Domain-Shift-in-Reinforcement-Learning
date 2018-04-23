@@ -13,6 +13,7 @@ A compilation of domain-shift related papers in reinforcement learning
 - [Evaluating Performance of Policies](#evaluating-performance-of-policies)
 - [Self-Training](#self-training)
 - [Research Blogs](#research-blogs)
+- [Datasets](#datasets)
 - [Others](#others)
 - [Key Papers](#key-papers)
 - [TO-DOs](#to-dos)
@@ -133,11 +134,15 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Research Blogs
 - Closing the Simulation-to-Reality Gap for Deep Robotic Learning [[link]](https://research.googleblog.com/2017/10/closing-simulation-to-reality-gap-for.html)
   - Google, 2017.
-
+  
+## Datasets
+- Vision Meets Drones: A Challenge [[pdf]](https://arxiv.org/abs/1804.07437)
+  - Pengfei Zhu, Longyin Wen, Xiao Bian, Haibing Ling, Qinghua Hu. arXiv'18
+  
 ## Others
 - Recurrent Environment Simulators [[pdf]](https://arxiv.org/abs/1704.02254)
   - Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, Shakir Mohamed. arXiv'17
-
+  
 ## Key Papers
 - (JJ) Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping [[pdf]](https://arxiv.org/abs/1709.07857)
   - Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke. ICRA'18
