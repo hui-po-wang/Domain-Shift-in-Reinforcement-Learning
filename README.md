@@ -46,10 +46,10 @@ A compilation of domain-shift related papers in reinforcement learning
   - Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei A. Efros, Trevor Darrell. arXiv'17
 - (HP) Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[pdf]](https://arxiv.org/abs/1703.06868)
   - Xun Huang, Serge Belongie. ICCV'17
-- Exploring the structure of a real-time, arbitrary neural artistic stylization network [[pdf]](https://arxiv.org/abs/1705.06830)
-  - Golnaz Ghiasi, Honglak Lee, Manjunath Kudlur, Vincent Dumoulin, Jonathon Shlens. BMVC'17
-- ZM-Net: Real-time Zero-shot Image Manipulation Network [[pdf]](https://arxiv.org/abs/1703.07255)
-  - Hao Wang, Xiaodan Liang, Hao Zhang, Dit-Yan Yeung, Eric P. Xing. arXiv'17
+- Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes [[pdf]](https://arxiv.org/abs/1707.09465)
+  - Yang Zhang, Philip David, Boqing Gong. ICCV'17
+- Associative Domain Adaptation [[pdf]](https://arxiv.org/abs/1708.00938)
+  - Philip Haeusser, Thomas Frerix, Alexander Mordvintsev, Daniel Cremers. ICCV'17
 
 
 ## Domain Shift in Reinforcement Learning
