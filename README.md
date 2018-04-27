@@ -50,7 +50,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Yang Zhang, Philip David, Boqing Gong. ICCV'17
 - Associative Domain Adaptation [[pdf]](https://arxiv.org/abs/1708.00938)
   - Philip Haeusser, Thomas Frerix, Alexander Mordvintsev, Daniel Cremers. ICCV'17
-- Cross-Domain Self-supervised Multi-task Feature Learning using Synthetic Imagery [[pdf]](https://arxiv.org/pdf/1711.09082.pdf)
+- (WC) Cross-Domain Self-supervised Multi-task Feature Learning using Synthetic Imagery [[pdf]](https://arxiv.org/pdf/1711.09082.pdf)
   - Zhongzheng Ren and Yong Jae Lee. CVPR'18
 
 
