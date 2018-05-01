@@ -52,6 +52,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Philip Haeusser, Thomas Frerix, Alexander Mordvintsev, Daniel Cremers. ICCV'17
 - (WC) Cross-Domain Self-supervised Multi-task Feature Learning using Synthetic Imagery [[pdf]](https://arxiv.org/pdf/1711.09082.pdf)
   - Zhongzheng Ren and Yong Jae Lee. CVPR'18
+- (BS) Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings [[pdf]](https://openreview.net/forum?id=SkHDoG-Cb)
+  - Kangwook Lee, Hoon Kim, Changho Suh. ICLR'18
 
 
 ## Domain Shift in Reinforcement Learning
