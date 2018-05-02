@@ -42,7 +42,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, Dilip Krishnan. CVPR'17
 - (BS) Revisiting Batch Normalization For Practical Domain Adaptation [[pdf]](https://arxiv.org/abs/1603.04779)
   - Yanghao Li, Naiyan Wang, Jianping Shi, Jiaying Liu, Xiaodi Hou. ICLR'17 WorkShop
-- CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[pdf]](https://arxiv.org/abs/1711.03213)
+- (WC) CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[pdf]](https://arxiv.org/abs/1711.03213)
   - Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei A. Efros, Trevor Darrell. arXiv'17
 - (HP) Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[pdf]](https://arxiv.org/abs/1703.06868)
   - Xun Huang, Serge Belongie. ICCV'17
@@ -63,7 +63,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Chris Paxton, Kapil Katyal, Christian Rupprecht, Raman Arora, Gregory D. Hager. arXiv'17
 - (Stanley)Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning [[pdf]](https://openreview.net/forum?id=SJJQVZW0b)
   - Tianmin Shu, Caiming Xiong, Richard Socher. ICLR'18
-- Learning Robust Rewards with Adverserial Inverse Reinforcement Learning [[pdf]](https://openreview.net/forum?id=rkHywl-A-)
+- (WC) Learning Robust Rewards with Adverserial Inverse Reinforcement Learning [[pdf]](https://openreview.net/forum?id=rkHywl-A-)
   - Justin Fu, Katie Luo, Sergey Levine. ICLR'18
 - (WC) Adapting Deep Visuomotor Representations with Weak Pairwise Constraints [[pdf]](https://arxiv.org/abs/1511.07111) [[ppt]](https://drive.google.com/file/d/1w9jSR7tRiUAQhKRjkiOZUPB0XPU_uAYv/view?usp=sharing)
   - Eric Tzeng, Coline Devin, Judy Hoffman, Chelsea Finn, Pieter Abbeel, Sergey Levine, Kate Saenko, Trevor Darrell. WAFR'16
