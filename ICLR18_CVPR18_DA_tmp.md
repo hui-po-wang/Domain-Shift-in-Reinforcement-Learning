@@ -78,7 +78,7 @@ Some of them may already exist in `README.md`, so we will merge these papers int
 - People, Penguins and Petri Dishes: Adapting Object Counting Models To New Visual Domains And Object Types Without Forgetting [[pdf]](https://arxiv.org/pdf/1711.05586)
   - Mark Marsden, Kevin McGuinness, Suzanne Little, Ciara E. Keogh, Noel E. O'Connor. CVPR'18
 -	From Source to Target and Back: Symmetric Bi-Directional Adaptive GAN [[pdf]](https://arxiv.org/pdf/1705.08824)
->- Paolo Russo, Fabio Maria Carlucci, Tatiana Tommasi, Barbara Caputo. CVPR'18
+    - Paolo Russo, Fabio Maria Carlucci, Tatiana Tommasi, Barbara Caputo. CVPR'18
 - Importance Weighted Adversarial Nets for Partial Domain Adaptation [[pdf]](https://arxiv.org/pdf/1803.09210)
   - Jing Zhang, Zewei Ding, Wanqing Li, Philip Ogunbona. CVPR'18
 - 
