@@ -20,7 +20,7 @@ A compilation of domain-shift related papers in reinforcement learning
 
 ## Domain Adaption
 - Awesome Transfer Learning [[github]](https://github.com/artix41/awesome-transfer-learning)
-- (HP) A DIRT-T Approach to Unsupervised Domain Adaptation [[pdf]](https://openreview.net/forum?id=H1q-TM-AW&noteId=H1q-TM-AW)
+- (HP) A DIRT-T Approach to Unsupervised Domain Adaptation [[pdf]](https://openreview.net/forum?id=H1q-TM-AW&noteId=H1q-TM-AW)[[slides]](https://drive.google.com/open?id=1UIoeAMqClAcPnXTZIpLaX3pUUqB2dVLD)
   - Rui Shu, Hung Bui, Hirokazu Narui, Stefano Ermon. ICLR'18
 - Learning Transferrable Representations for Unsupervised Domain Adaptation [[pdf]](https://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation)
   - Ozan Sener, Hyun Oh Song, Ashutosh Saxena, Silvio Savarese. NIPS'16
@@ -28,7 +28,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Konstantinos Bousmalis, George Trigeorgis, Nathan Silberman, Dilip Krishnan, Dumitru Erhan. NIPS'16
 - Unsupervised Domain Adaptation with Residual Transfer Networks [[pdf]](https://arxiv.org/abs/1602.04433)
   - Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. NIPS'16
-- (HP) Multi-Adversarial Domain Adaptation. [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf)
+- (HP) Multi-Adversarial Domain Adaptation. [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf)[[slides]](https://drive.google.com/file/d/1yWJSIg8uDGwo36FgHIv4uQKjF02HysTi/view?usp=sharing)
    - Zhongyi Pei, Zhangjie Cao, Mingsheng Long, and Jianmin Wang. AAAI'18
 - (HP) Multimodal Unsupervised Image-to-Image Translation [[pdf]](https://arxiv.org/abs/1804.04732)
   - Xun Huang, Ming-Yu Liu, Serge Belongie, Jan Kautz. arXiv'18
@@ -160,7 +160,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke
 - (JJ) Modular Continual Learning in a Unified Visual Environment [[pdf]](https://openreview.net/forum?id=rkPLzgZAZ)
   - Kevin T. Feigelis, Blue Sheffer, Daniel L. K. Yamins. ICLR'18
-- (HP) Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments [[pdf]](https://openreview.net/forum?id=Sk2u1g-0-)
+- (HP) Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments [[pdf]](https://openreview.net/forum?id=Sk2u1g-0-) [[slides]](https://drive.google.com/file/d/11KYEYO9gvQcjGJKIHne-UMkLZtk7lRNZ/view?usp=sharing)
   - Maruan Al-Shedivat, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 Oral
 - (WC) Recasting Gradient-Based Meta-Learning as Hierarchical Bayes [[pdf]](https://openreview.net/forum?id=BJ_UL-k0b)
   - Erin Grant, Chelsea Finn, Sergey Levine, Trevor Darrell, Thomas Griffiths. ICLR'18
