@@ -146,7 +146,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Lei Huang, Dawei Yang, Bo Lang, Jia Deng. CVPR'18
 - Recurrent Environment Simulators [[pdf]](https://arxiv.org/abs/1704.02254)
   - Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, Shakir Mohamed. arXiv'17
-- Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car [[pdf]](https://arxiv.org/pdf/1704.07911) [[ppt]](https://drive.google.com/open?id=1sXfvd10CJ6rMx-Yq9H7fx-8318HfPJni)
+- (BS) Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car [[pdf]](https://arxiv.org/pdf/1704.07911) [[ppt]](https://drive.google.com/open?id=1sXfvd10CJ6rMx-Yq9H7fx-8318HfPJni)
   - Mariusz Bojarski, Philip Yeres, Anna Choromanska, Krzysztof Choromanski, Bernhard Firner, Lawrence Jackel, Urs Muller. arXiv'17
   
 ## Key Papers
@@ -164,7 +164,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Maruan Al-Shedivat, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 Oral
 - (WC) Recasting Gradient-Based Meta-Learning as Hierarchical Bayes [[pdf]](https://openreview.net/forum?id=BJ_UL-k0b)
   - Erin Grant, Chelsea Finn, Sergey Levine, Trevor Darrell, Thomas Griffiths. ICLR'18
-- (BS) Universal Agent for Disentangling Environments and Tasks [[pdf]](https://openreview.net/forum?id=B1mvVm-C-) [[ppt]]()
+- (BS) Universal Agent for Disentangling Environments and Tasks [[pdf]](https://openreview.net/forum?id=B1mvVm-C-) [[ppt]](https://drive.google.com/open?id=1ucDKum1mzeM3YUdBQ3SzBA0WBDDi8HOR)
   - Jiayuan Mao, Honghua Dong, Joseph J. Lim. ICLR'18
 
 ## TO-DOs
