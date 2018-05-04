@@ -1,6 +1,6 @@
 ## Introduction
 List of papers, which are related to **Domain Adaptation**, in ICLR'18 or CVPR'18.\
-Some of them may had already exist in `README.md`, so we will merge these papers into `README.md` later.
+Some of them may already exist in `README.md`, so we will merge these papers into `README.md` later.
 
 ## ICLR 2018 [[all papers]](https://openreview.net/group?id=ICLR.cc/2018/Conference)
 ### Oral
