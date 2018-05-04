@@ -35,12 +35,10 @@ A compilation of domain-shift related papers in reinforcement learning
 - Learning to cluster in order to transfer across domains and tasks [[pdf]](https://arxiv.org/abs/1711.10125) ---> already presented by Prof.Chiu
   - Yen-Chang Hsu, Zhaoyang Lv, Zsolt Kira. ICLR'18
 - (HP) Unupervised Domain Adaptation by Backpropagation [[pdf]](https://arxiv.org/abs/1409.7495)
-  - Yaroslav Ganin, Victor Lempitsky. arXiv'14
-- (BS) Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/abs/1702.05464)
-  - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
+  - Yaroslav Ganin, Victor Lempitsky. arXiv'14  - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
 - (WC) Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1612.05424)
   - Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, Dilip Krishnan. CVPR'17
-- (BS) Revisiting Batch Normalization For Practical Domain Adaptation [[pdf]](https://arxiv.org/abs/1603.04779)
+- (BS) Revisiting Batch Normalization For Practical Domain Adaptation [[pdf]](https://arxiv.org/abs/1603.04779) [[ppt]](https://drive.google.com/open?id=1BuamHVPxgzEk-EJFurmg2YOd1NtOK2_F)
   - Yanghao Li, Naiyan Wang, Jianping Shi, Jiaying Liu, Xiaodi Hou. ICLR'17 WorkShop
 - (WC) CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[pdf]](https://arxiv.org/abs/1711.03213)
   - Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei A. Efros, Trevor Darrell. arXiv'17
@@ -52,7 +50,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Philip Haeusser, Thomas Frerix, Alexander Mordvintsev, Daniel Cremers. ICCV'17
 - (WC) Cross-Domain Self-supervised Multi-task Feature Learning using Synthetic Imagery [[pdf]](https://arxiv.org/pdf/1711.09082.pdf)
   - Zhongzheng Ren and Yong Jae Lee. CVPR'18
-- (BS) Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings [[pdf]](https://openreview.net/forum?id=SkHDoG-Cb)
+- (BS) Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings [[pdf]](https://openreview.net/forum?id=SkHDoG-Cb) [[ppt]](https://drive.google.com/open?id=1X_6918HuXCG69fEWdg0mQNewzn6o3vZd)
   - Kangwook Lee, Hoon Kim, Changho Suh. ICLR'18
 
 
@@ -112,7 +110,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Ruben Glatt, Felipe Leno da Silva, and Anna Helena Reali Costa.
 - Pose-Robust Face Recognition via Deep Residual Equivariant Mapping [[pdf]](https://arxiv.org/abs/1803.00839)
   - Kaidi Cao, Yu Rong, Cheng Li, Xiaoou Tang, Chen Change Loy. CVPR'18
-- (BS) Simultaneous Deep Transfer Across Domains and Tasks [[pdf]](https://arxiv.org/abs/1510.02192)
+- (BS) Simultaneous Deep Transfer Across Domains and Tasks [[pdf]](https://arxiv.org/abs/1510.02192) [[ppt]](https://drive.google.com/open?id=1ER1esKm0TE_nN2-x7h43PJIAR8qdfaHr)
   - Eric Tzeng, Judy Hoffman, Trevor Darrell, Kate Saenko. ICCV'15
   
 ## Few-Shot Learning
@@ -120,7 +118,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Oriol Vinyals, Charles Blundell, Tim Lillicrap, koray kavukcuoglu, Daan Wierstra. NIPS'16
 - (WC) Learning to Compare Relation Network for Few Shot Learning [[pdf]](https://arxiv.org/abs/1711.06025) 
   - Flood Sung, Yongxin Tang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales
-- (BS) Optimization as a Model for Few-Shot Learning[[pdf]](https://openreview.net/forum?id=rJY0-Kcll)
+- Optimization as a Model for Few-Shot Learning[[pdf]](https://openreview.net/forum?id=rJY0-Kcll)
   - Sachin Ravi, Hugo Larochelle. ICLR'17
 
 ## Evaluating performance of policies
@@ -148,11 +146,13 @@ A compilation of domain-shift related papers in reinforcement learning
   - Lei Huang, Dawei Yang, Bo Lang, Jia Deng. CVPR'18
 - Recurrent Environment Simulators [[pdf]](https://arxiv.org/abs/1704.02254)
   - Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, Shakir Mohamed. arXiv'17
+- Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car [[pdf]](https://arxiv.org/pdf/1704.07911) [[ppt]](https://drive.google.com/open?id=1sXfvd10CJ6rMx-Yq9H7fx-8318HfPJni)
+  - Mariusz Bojarski, Philip Yeres, Anna Choromanska, Krzysztof Choromanski, Bernhard Firner, Lawrence Jackel, Urs Muller. arXiv'17
   
 ## Key Papers
 - (JJ) Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping [[pdf]](https://arxiv.org/abs/1709.07857)
   - Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke. ICRA'18
-- (BS) ADAPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems [[pdf]](https://arxiv.org/abs/1707.04674)
+- (BS) ADAPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems [[pdf]](https://arxiv.org/abs/1707.04674) [[ppt]](https://drive.google.com/open?id=1DfT_gwLEievx4ef_aIkp1PhQ7rF79_y1)
   - James HarMatching Networks for One Shot Learrison, Animesh Garg, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone. arXiv'17  ISRR'17
 - (Stanley)Transferring End-to-End Visuomotor Control from Simulation to Real World for a Multi-Stage Task [[pdf]](https://arxiv.org/abs/1707.02267)
   - Stephen James, Andrew J. Davison, Edward Johns. CoRL'17
@@ -164,7 +164,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Maruan Al-Shedivat, Trapit Bansal, Yura Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel. ICLR'18 Oral
 - (WC) Recasting Gradient-Based Meta-Learning as Hierarchical Bayes [[pdf]](https://openreview.net/forum?id=BJ_UL-k0b)
   - Erin Grant, Chelsea Finn, Sergey Levine, Trevor Darrell, Thomas Griffiths. ICLR'18
-- (BS) Universal Agent for Disentangling Environments and Tasks [[pdf]](https://openreview.net/forum?id=B1mvVm-C-)
+- (BS) Universal Agent for Disentangling Environments and Tasks [[pdf]](https://openreview.net/forum?id=B1mvVm-C-) [[ppt]]()
   - Jiayuan Mao, Honghua Dong, Joseph J. Lim. ICLR'18
 
 ## TO-DOs
