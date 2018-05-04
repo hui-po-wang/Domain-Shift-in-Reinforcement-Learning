@@ -25,3 +25,26 @@ Some of them may already exist in `README.md`, so we will merge these papers int
 
 
 ## CVPR 2018 [[all papers]](http://cvpr2018.thecvf.com/program/main_conference)
+### Oral/Spotlights
+- AdaDepth: Unsupervised Content Congruent Adaptation for Depth Estimation [[pdf]](https://arxiv.org/pdf/1803.01599)
+  - Jogendra Nath Kundu, Phani Krishna Uppala, Anuj Pahuja, R. Venkatesh Babu. CVPR'18
+- Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[pdf]](https://arxiv.org/pdf/1712.02560)
+  - Kuniaki Saito, Kohei Watanabe, Yoshitaka Ushiku, Tatsuya Harada. CVPR'18
+- Boosting Domain Adaptation by Discovering Latent Domains [[pdf]](http://research.mapillary.com/img/publications/CVPR18b.pdf)
+  - Massimiliano Mancini, Lorenzo Porzi, Samuel Rota Bulò, Barbara Caputo, Elisa Ricci. CVPR'18
+- 
+
+### Posters
+- Image-Image Domain Adaptation With Preserved Self-Similarity and Domain-Dissimilarity for Person Re-Identification [[pdf]](https://arxiv.org/pdf/1711.07027)
+  - Weijian Deng, Liang Zheng, Guoliang Kang, Yi Yang, Qixiang Ye, Jianbin Jiao. CVPR'18
+- Conditional Generative Adversarial Network for Structured Domain Adaptation (pdf-404)
+  - Weixiang Hong, Zhenzhen Wang, Ming Yang, Junsong Yuan. CVPR'18
+- Duplex Generative Adversarial Network for Unsupervised Domain Adaptation [[pdf]](http://vipl.ict.ac.cn/uploadfile/upload/2018041610083083.pdf)
+  - Lanqing Hu, Meina Kan, Shiguang Shan, Xilin Chen. CVPR'18
+- Real-Time Monocular Depth Estimation Using Synthetic Data With Domain Adaptation via Image Style Transfer [[pdf]](http://breckon.eu/toby/publications/papers/abarghouei18monocular.pdf)
+  - Amir Atapour-Abarghouei, Toby P. Breckon. CVPR'18
+- Domain Adaptive Faster R-CNN for Object Detection in the Wild [[pdf]](https://arxiv.org/pdf/1803.03243)
+  - Yuhua Chen, Wen Li, Christos Sakaridis, Dengxin Dai, Luc Van Gool. CVPR'18
+- Aligning Infinite-Dimensional Covariance Matrices in Reproducing Kernel Hilbert Spaces for Domain Adaptation (pdf-404)
+  - Zhen Zhang, Mianzhi Wang, Yan Huang, Arye Nehorai. CVPR'18
+- 
