@@ -34,6 +34,10 @@ Some of them may already exist in `README.md`, so we will merge these papers int
   - Massimiliano Mancini, Lorenzo Porzi, Samuel Rota Bulò, Barbara Caputo, Elisa Ricci. CVPR'18
 - Collaborative and Adversarial Network for Unsupervised Domain Adaptation (pdf-404)
   - Weichen Zhang, Wanli Ouyang, Wen Li, Dong Xu. CVPR'18
+- Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1704.01705)
+  - Swami Sankaranarayanan, Yogesh Balaji, Carlos D. Castillo, Rama Chellappa. CVPR'18
+- Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation [[pdf]](https://arxiv.org/pdf/1705.01314)
+  - Yen-Cheng Liu, Yu-Ying Yeh, Tzu-Chien Fu, Sheng-De Wang, Wei-Chen Chiu, Yu-Chiang Frank Wang. CVPR'18
 - 
 
 ### Posters
@@ -57,4 +61,24 @@ Some of them may already exist in `README.md`, so we will merge these papers int
   - Zak Murez, Soheil Kolouri, David Kriegman, Ravi Ramamoorthi, Kyungnam Kim. CVPR'18
 - Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[pdf]](https://arxiv.org/pdf/1803.11365)
   - Naoto Inoue, Ryosuke Furuta, Toshihiko Yamasaki, Kiyoharu Aizawa. CVPR'18
+- Camera Style Adaptation for Person Re-Identification [[pdf]](https://arxiv.org/pdf/1711.10295)
+  - Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang. CVPR'18
+- Adversarial Feature Augmentation for Unsupervised Domain Adaptation [[pdf]](https://arxiv.org/pdf/1711.08561)
+  - Riccardo Volpi, Pietro Morerio, Silvio Savarese, Vittorio Murino. CVPR'18
+- Fully Convolutional Adaptation Networks for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/1804.08286)
+  - Yiheng Zhang, Zhaofan Qiu, Ting Yao, Dong Liu, Tao Mei. CVPR'18
+- Learning to Adapt Structured Output Space for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/1802.10349)
+  - Yi-Hsuan Tsai, Wei-Chih Hung, Samuel Schulter, Kihyuk Sohn, Ming-Hsuan Yang, Manmohan Chandraker. CVPR'18
+- ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes [[pdf]](https://arxiv.org/pdf/1711.11556)
+  - Yuhua Chen, Wen Li, Luc Van Gool. CVPR'18
+- Re-Weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation (pdf-404)
+  - Qingchao Chen, Yang Liu, Zhaowen Wang, Ian Wassell, Kevin Chetty. CVPR'18
+- Unsupervised Domain Adaptation with Similarity Learning [[pdf]](https://arxiv.org/pdf/1711.08995)
+  - Pedro O. Pinheiro. CVPR'18
+- People, Penguins and Petri Dishes: Adapting Object Counting Models To New Visual Domains And Object Types Without Forgetting [[pdf]](https://arxiv.org/pdf/1711.05586)
+  - Mark Marsden, Kevin McGuinness, Suzanne Little, Ciara E. Keogh, Noel E. O'Connor. CVPR'18
+-	From Source to Target and Back: Symmetric Bi-Directional Adaptive GAN [[pdf]](https://arxiv.org/pdf/1705.08824)
+  - Paolo Russo, Fabio Maria Carlucci, Tatiana Tommasi, Barbara Caputo. CVPR'18
+- Importance Weighted Adversarial Nets for Partial Domain Adaptation [[pdf]](https://arxiv.org/pdf/1803.09210)
+  - Jing Zhang, Zewei Ding, Wanqing Li, Philip Ogunbona. CVPR'18
 - 
