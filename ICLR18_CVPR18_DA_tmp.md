@@ -32,6 +32,8 @@ Some of them may already exist in `README.md`, so we will merge these papers int
   - Kuniaki Saito, Kohei Watanabe, Yoshitaka Ushiku, Tatsuya Harada. CVPR'18
 - Boosting Domain Adaptation by Discovering Latent Domains [[pdf]](http://research.mapillary.com/img/publications/CVPR18b.pdf)
   - Massimiliano Mancini, Lorenzo Porzi, Samuel Rota Bulò, Barbara Caputo, Elisa Ricci. CVPR'18
+- Collaborative and Adversarial Network for Unsupervised Domain Adaptation (pdf-404)
+  - Weichen Zhang, Wanli Ouyang, Wen Li, Dong Xu. CVPR'18
 - 
 
 ### Posters
@@ -47,4 +49,12 @@ Some of them may already exist in `README.md`, so we will merge these papers int
   - Yuhua Chen, Wen Li, Christos Sakaridis, Dengxin Dai, Luc Van Gool. CVPR'18
 - Aligning Infinite-Dimensional Covariance Matrices in Reproducing Kernel Hilbert Spaces for Domain Adaptation (pdf-404)
   - Zhen Zhang, Mianzhi Wang, Yan Huang, Arye Nehorai. CVPR'18
+- Deep Cocktail Network: Multi-Source Unsupervised Domain Adaptation With Category Shift [[pdf]](https://arxiv.org/pdf/1803.00830)
+  - Ruijia Xu, Ziliang Chen, Wangmeng Zuo, Junjie Yan, Liang Lin. CVPR'18
+- Residual Parameter Transfer for Deep Domain Adaptation [[pdf]](https://arxiv.org/pdf/1711.07714)
+  - Artem Rozantsev, Mathieu Salzmann, Pascal Fua. CVPR'18
+- Image to Image Translation for Domain Adaptation [[pdf]](https://arxiv.org/pdf/1712.00479)
+  - Zak Murez, Soheil Kolouri, David Kriegman, Ravi Ramamoorthi, Kyungnam Kim. CVPR'18
+- Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[pdf]](https://arxiv.org/pdf/1803.11365)
+  - Naoto Inoue, Ryosuke Furuta, Toshihiko Yamasaki, Kiyoharu Aizawa. CVPR'18
 - 
