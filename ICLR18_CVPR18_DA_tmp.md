@@ -38,6 +38,8 @@ Some of them may already exist in `README.md`, so we will merge these papers int
   - Swami Sankaranarayanan, Yogesh Balaji, Carlos D. Castillo, Rama Chellappa. CVPR'18
 - Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation [[pdf]](https://arxiv.org/pdf/1705.01314)
   - Yen-Cheng Liu, Yu-Ying Yeh, Tzu-Chien Fu, Sheng-De Wang, Wei-Chen Chiu, Yu-Chiang Frank Wang. CVPR'18
+- Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/1711.06969)
+  - Swami Sankaranarayanan, Yogesh Balaji, Arpit Jain, Ser Nam Lim, Rama Chellappa. CVPR'18
 - 
 
 ### Posters
@@ -81,4 +83,11 @@ Some of them may already exist in `README.md`, so we will merge these papers int
     - Paolo Russo, Fabio Maria Carlucci, Tatiana Tommasi, Barbara Caputo. CVPR'18
 - Importance Weighted Adversarial Nets for Partial Domain Adaptation [[pdf]](https://arxiv.org/pdf/1803.09210)
   - Jing Zhang, Zewei Ding, Wanqing Li, Philip Ogunbona. CVPR'18
-- 
+- Cross-Domain Self-Supervised Multi-Task Feature Learning Using Synthetic Imagery [[pdf]](https://arxiv.org/pdf/1711.09082.pdf)
+  - Zhongzheng Ren, Yong Jae Lee. CVPR'18
+- Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains [[pdf]](https://arxiv.org/pdf/1803.06641)
+  - Jiahao Pang, Wenxiu Sun, Chengxi Yang, Jimmy Ren, Ruichao Xiao, Jin Zeng, Liang Lin. CVPR'18
+- Efficient parametrization of multi-domain deep neural networks [[pdf]](https://arxiv.org/pdf/1803.10082)
+  - Sylvestre-Alvise Rebuffi, Hakan Bilen, Andrea Vedaldi. CVPR'18
+- Domain Generalization With Adversarial Feature Learning (pdf-404)
+  - Haoliang Li, Sinno Jialin Pan, Shiqi Wang, Alex C. Kot. CVPR'18
