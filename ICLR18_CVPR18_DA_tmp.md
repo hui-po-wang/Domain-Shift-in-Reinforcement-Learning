@@ -24,4 +24,4 @@ Some of them may had already exist in `README.md`, so we will merge these papers
   - Yedid Hoshen, Lior Wolf. ICLR'18
 
 
-## NIPS 2018
+## CVPR 2018
