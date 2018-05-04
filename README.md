@@ -30,7 +30,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan. NIPS'16
 - (HP) Multi-Adversarial Domain Adaptation. [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf)[[slides]](https://drive.google.com/file/d/1yWJSIg8uDGwo36FgHIv4uQKjF02HysTi/view?usp=sharing)
    - Zhongyi Pei, Zhangjie Cao, Mingsheng Long, and Jianmin Wang. AAAI'18
-- (HP) Multimodal Unsupervised Image-to-Image Translation [[pdf]](https://arxiv.org/abs/1804.04732)
+- (HP) Multimodal Unsupervised Image-to-Image Translation [[pdf]](https://arxiv.org/abs/1804.04732)[[slides]](https://drive.google.com/file/d/1T0_5RWP8rNW7DTqmmD38D1PKI1agaYlc/view?usp=sharing)
   - Xun Huang, Ming-Yu Liu, Serge Belongie, Jan Kautz. arXiv'18
 - Learning to cluster in order to transfer across domains and tasks [[pdf]](https://arxiv.org/abs/1711.10125) ---> already presented by Prof.Chiu
   - Yen-Chang Hsu, Zhaoyang Lv, Zsolt Kira. ICLR'18
