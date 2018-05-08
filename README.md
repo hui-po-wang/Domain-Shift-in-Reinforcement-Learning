@@ -52,6 +52,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Zhongzheng Ren and Yong Jae Lee. CVPR'18
 - (BS) Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings [[pdf]](https://openreview.net/forum?id=SkHDoG-Cb)
   - Kangwook Lee, Hoon Kim, Changho Suh. ICLR'18
+- Deep CORAL: Correlation Alignment for Deep Domain Adaptation [[pdf]](https://arxiv.org/abs/1607.01719)
+  - Baochen Sun, Kate Saenko. ECCV'16
 
 
 ## Domain Shift in Reinforcement Learning
