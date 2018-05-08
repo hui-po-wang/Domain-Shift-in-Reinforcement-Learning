@@ -112,6 +112,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Kaidi Cao, Yu Rong, Cheng Li, Xiaoou Tang, Chen Change Loy. CVPR'18
 - (BS) Simultaneous Deep Transfer Across Domains and Tasks [[pdf]](https://arxiv.org/abs/1510.02192) [[ppt]](https://drive.google.com/open?id=1ER1esKm0TE_nN2-x7h43PJIAR8qdfaHr)
   - Eric Tzeng, Judy Hoffman, Trevor Darrell, Kate Saenko. ICCV'15
+- How transferable are features in deep neural networks? [[pdf]](https://arxiv.org/abs/1411.1792)
+  - Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson. NIPS'14
   
 ## Few-Shot Learning
 - (WC) Matching Networks for One Shot Learning [[pdf]](https://arxiv.org/abs/1606.04080)
