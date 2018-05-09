@@ -96,4 +96,14 @@ Some of them may already exist in `README.md`, so we will merge these papers int
 ## Some Transfer Learning Papers
 - (BS) Partial Transfer Learning With Selective Adversarial Networks. [[pdf]](https://arxiv.org/pdf/1707.07901.pdf)
   - Zhangjie Cao, Mingsheng Long, Jianmin Wang, Michael I. Jordan. CVPR'18
-- Taskonomy: Disentangling Task Transfer Learning. [[pdf]]()
+- Taskonomy: Disentangling Task Transfer Learning. [[pdf]](https://arxiv.org/pdf/1804.08328)
+  - Amir Zamir, Alexander Sax, William Shen, Leonidas Guibas, Jitendra Malik, Silvio Savarese. CVPR'18-oral
+- Unsupervised Cross-dataset Person Re-identification by Transfer Learning of Spatial-Temporal Patterns [[pdf]](https://arxiv.org/pdf/1803.07293)
+  - Jianming Lv, Weihang Chen, Qing Li, Can Yang. CVPR'18
+- Learning Transferable Architectures for Scalable Image Recognition [[pdf]](https://arxiv.org/pdf/1707.07012)
+  - Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le. CVPR'18-oral
+- Deep Cross-media Knowledge Transfer [[pdf]](https://arxiv.org/pdf/1803.03777)
+  - Xin Huang, Yuxin Peng. CVPR'18-oral
+- Feature Space Transfer for Data Augmentation [[pdf]](https://arxiv.org/pdf/1801.04356)
+  - Bo Liu, Mandar Dixit, Roland Kwitt, Nuno Vasconcelos. CVPR'18-oral
+
