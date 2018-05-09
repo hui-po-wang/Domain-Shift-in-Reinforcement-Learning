@@ -106,4 +106,5 @@ Some of them may already exist in `README.md`, so we will merge these papers int
   - Xin Huang, Yuxin Peng. CVPR'18-oral
 - Feature Space Transfer for Data Augmentation [[pdf]](https://arxiv.org/pdf/1801.04356)
   - Bo Liu, Mandar Dixit, Roland Kwitt, Nuno Vasconcelos. CVPR'18-oral
-
+- Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning [[pdf]](https://vision.cornell.edu/se3/wp-content/uploads/2018/03/FGVC_CVPR_2018.pdf)
+  - Yin Cui, Yang Song, Chen Sun, Andrew Howard, Serge Belongie. CVPR'18
