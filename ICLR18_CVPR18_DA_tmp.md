@@ -91,3 +91,9 @@ Some of them may already exist in `README.md`, so we will merge these papers int
   - Sylvestre-Alvise Rebuffi, Hakan Bilen, Andrea Vedaldi. CVPR'18
 - Domain Generalization With Adversarial Feature Learning (pdf-404)
   - Haoliang Li, Sinno Jialin Pan, Shiqi Wang, Alex C. Kot. CVPR'18
+
+
+## Some Transfer Learning Papers
+- (BS) Partial Transfer Learning With Selective Adversarial Networks. [[pdf]](https://arxiv.org/pdf/1707.07901.pdf)
+  - Zhangjie Cao, Mingsheng Long, Jianmin Wang, Michael I. Jordan. CVPR'18
+- Taskonomy: Disentangling Task Transfer Learning. [[pdf]]()
