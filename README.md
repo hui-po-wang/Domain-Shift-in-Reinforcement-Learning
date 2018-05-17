@@ -57,7 +57,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Baochen Sun, Kate Saenko. ECCV'16
 - Self-ensembling for visual domain adaptation [[pdf]](https://openreview.net/forum?id=rkpoTaxA-)
   - Geoff French, Michal Mackiewicz, Mark Fisher. ICLR'18
-- Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation [[pdf]](https://openreview.net/forum?id=rJWechg0Z)
+- (WC) Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation [[pdf]](https://openreview.net/forum?id=rJWechg0Z)
   - Pietro Morerio, Jacopo Cavazza, Vittorio Murino. ICLR'18
 - Multiple Source Domain Adaptation with Adversarial Learning [[pdf]](https://openreview.net/forum?id=ryDNZZZAW)
   - Han Zhao, Shanghang Zhang, Guanhang Wu, Jo\~{a}o P. Costeira, Jos\'{e} M. F. Moura, Geoffrey J. Gordon. ICLR'18
@@ -67,7 +67,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Yedid Hoshen, Lior Wolf. ICLR'18
 - AdaDepth: Unsupervised Content Congruent Adaptation for Depth Estimation [[pdf]](https://arxiv.org/pdf/1803.01599)
   - Jogendra Nath Kundu, Phani Krishna Uppala, Anuj Pahuja, R. Venkatesh Babu. CVPR'18
-- Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[pdf]](https://arxiv.org/pdf/1712.02560)
+- (WC) Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[pdf]](https://arxiv.org/pdf/1712.02560)
   - Kuniaki Saito, Kohei Watanabe, Yoshitaka Ushiku, Tatsuya Harada. CVPR'18
 - Boosting Domain Adaptation by Discovering Latent Domains [[pdf]](http://research.mapillary.com/img/publications/CVPR18b.pdf)
   - Massimiliano Mancini, Lorenzo Porzi, Samuel Rota Bulò, Barbara Caputo, Elisa Ricci. CVPR'18
