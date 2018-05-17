@@ -14,6 +14,7 @@ A compilation of domain-shift related papers in reinforcement learning
 - [Self-Training](#self-training)
 - [Research Blogs](#research-blogs)
 - [Datasets](#datasets)
+- [Clustering](#clustering)
 - [Others](#others)
 - [Key Papers](#key-papers)
 - [TO-DOs](#to-dos)
@@ -46,7 +47,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Xun Huang, Serge Belongie. ICCV'17
 - Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes [[pdf]](https://arxiv.org/abs/1707.09465)
   - Yang Zhang, Philip David, Boqing Gong. ICCV'17
-- (HP) Associative Domain Adaptation [[pdf]](https://arxiv.org/abs/1708.00938)
+- (HP) Associative Domain Adaptation [[pdf]](https://arxiv.org/abs/1708.00938)[[slides]](https://drive.google.com/file/d/1vAAd87nyKIuXgL0RsPqVjhmg4o-EKJXW/view?usp=sharing)
   - Philip Haeusser, Thomas Frerix, Alexander Mordvintsev, Daniel Cremers. ICCV'17
 - (WC) Cross-Domain Self-supervised Multi-task Feature Learning using Synthetic Imagery [[pdf]](https://arxiv.org/pdf/1711.09082.pdf)
   - Zhongzheng Ren and Yong Jae Lee. CVPR'18
@@ -229,6 +230,10 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Datasets
 - Vision Meets Drones: A Challenge [[pdf]](https://arxiv.org/abs/1804.07437)
   - Pengfei Zhu, Longyin Wen, Xiao Bian, Haibing Ling, Qinghua Hu. arXiv'18
+
+## Clustering
+- Unsupervised Deep Embedding for Clustering Analysis [[pdf]](https://arxiv.org/abs/1511.06335)[[slides]](https://drive.google.com/file/d/15TWAtdw42BavBT9WQLz8aZMXn08V7oFX/view?usp=sharing)
+  - Junyuan Xie, Ross Girshick, Ali Farhadi. ICML'16
   
 ## Others
 - Decorrelated Batch Normalization [[pdf]](https://arxiv.org/abs/1804.08450?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+StatArxiv+%2528arXiv.org%2529)
