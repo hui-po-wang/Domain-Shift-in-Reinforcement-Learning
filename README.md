@@ -127,6 +127,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Sylvestre-Alvise Rebuffi, Hakan Bilen, Andrea Vedaldi. CVPR'18
 - Domain Generalization With Adversarial Feature Learning (pdf-404)
   - Haoliang Li, Sinno Jialin Pan, Shiqi Wang, Alex C. Kot. CVPR'18
+- Label Efficient Learning of Transferable Representations acrosss Domains and Tasks [[pdf]](https://arxiv.org/abs/1712.00123)
+  - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. NIPS'17
 
 ## Domain Shift in Reinforcement Learning
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[pdf]](https://arxiv.org/abs/1707.08475)
@@ -212,6 +214,10 @@ A compilation of domain-shift related papers in reinforcement learning
   - Sachin Ravi, Hugo Larochelle. ICLR'17
 - (HP) Siamese Neural Networks for One-shot Image Recognition [[pdf]](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
   - Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. ICML workshop'15
+- Generative Adversarial Residual Pairwise Networks for One Shot Learning [[pdf]](https://arxiv.org/abs/1703.08033)
+  - Akshay Mehrotra, Ambedkar Dukkipati. arXiv'17
+- Few-Shot Learning Through an Information Retrieval Lens [[pdf]](https://arxiv.org/abs/1707.02610)
+  - Eleni Triantafillou, Richard Zemel, Raquel Urtasun. NIPS'17
 
 ## Evaluating performance of policies
 - Bootstrapping with models: Confidence intervals for off-policy evaluation [[pdf]](http://delivery.acm.org/10.1145/3100000/3091205/p538-hanna.pdf?ip=140.113.194.48&id=3091205&acc=ACTIVE%20SERVICE&key=AF37130DAFA4998B%2E7DDA227B4DBFAC43%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520396005_74ef752694d46f6b30d4f9ba8d52b904)
