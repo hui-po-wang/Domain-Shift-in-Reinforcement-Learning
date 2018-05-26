@@ -127,7 +127,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Sylvestre-Alvise Rebuffi, Hakan Bilen, Andrea Vedaldi. CVPR'18
 - Domain Generalization With Adversarial Feature Learning (pdf-404)
   - Haoliang Li, Sinno Jialin Pan, Shiqi Wang, Alex C. Kot. CVPR'18
-- Label Efficient Learning of Transferable Representations acrosss Domains and Tasks [[pdf]](https://arxiv.org/abs/1712.00123)
+- (HP) Label Efficient Learning of Transferable Representations acrosss Domains and Tasks [[pdf]](https://arxiv.org/abs/1712.00123)
   - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. NIPS'17
 
 ## Domain Shift in Reinforcement Learning
