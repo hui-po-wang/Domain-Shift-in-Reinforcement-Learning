@@ -95,7 +95,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Ruijia Xu, Ziliang Chen, Wangmeng Zuo, Junjie Yan, Liang Lin. CVPR'18
 - Residual Parameter Transfer for Deep Domain Adaptation [[pdf]](https://arxiv.org/pdf/1711.07714)
   - Artem Rozantsev, Mathieu Salzmann, Pascal Fua. CVPR'18
-- Image to Image Translation for Domain Adaptation [[pdf]](https://arxiv.org/pdf/1712.00479)
+- (Stefanie) Image to Image Translation for Domain Adaptation [[pdf]](https://arxiv.org/pdf/1712.00479)
   - Zak Murez, Soheil Kolouri, David Kriegman, Ravi Ramamoorthi, Kyungnam Kim. CVPR'18
 - Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[pdf]](https://arxiv.org/pdf/1803.11365)
   - Naoto Inoue, Ryosuke Furuta, Toshihiko Yamasaki, Kiyoharu Aizawa. CVPR'18
