@@ -194,7 +194,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson. NIPS'14
 - (BS) Partial Transfer Learning With Selective Adversarial Networks. [[pdf]](https://arxiv.org/pdf/1707.07901.pdf)
   - Zhangjie Cao, Mingsheng Long, Jianmin Wang, Michael I. Jordan. CVPR'18
-- Taskonomy: Disentangling Task Transfer Learning. [[pdf]](https://arxiv.org/pdf/1804.08328)
+- (HP) Taskonomy: Disentangling Task Transfer Learning. [[pdf]](https://arxiv.org/pdf/1804.08328)
   - Amir Zamir, Alexander Sax, William Shen, Leonidas Guibas, Jitendra Malik, Silvio Savarese. CVPR'18-oral
 - Unsupervised Cross-dataset Person Re-identification by Transfer Learning of Spatial-Temporal Patterns [[pdf]](https://arxiv.org/pdf/1803.07293)
   - Jianming Lv, Weihang Chen, Qing Li, Can Yang. CVPR'18
