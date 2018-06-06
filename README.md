@@ -129,6 +129,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Haoliang Li, Sinno Jialin Pan, Shiqi Wang, Alex C. Kot. CVPR'18
 - (HP) Label Efficient Learning of Transferable Representations acrosss Domains and Tasks [[pdf]](https://arxiv.org/abs/1712.00123)
   - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. NIPS'17
+- Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/abs/1702.05464)
+  - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
 
 ## Domain Shift in Reinforcement Learning
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[pdf]](https://arxiv.org/abs/1707.08475)
