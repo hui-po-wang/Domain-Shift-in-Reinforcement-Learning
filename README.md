@@ -53,7 +53,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Zhongzheng Ren and Yong Jae Lee. CVPR'18
 - (BS) Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings [[pdf]](https://openreview.net/forum?id=SkHDoG-Cb)
   - Kangwook Lee, Hoon Kim, Changho Suh. ICLR'18
-- Deep CORAL: Correlation Alignment for Deep Domain Adaptation [[pdf]](https://arxiv.org/abs/1607.01719)
+- (WC) Deep CORAL: Correlation Alignment for Deep Domain Adaptation [[pdf]](https://arxiv.org/abs/1607.01719)
   - Baochen Sun, Kate Saenko. ECCV'16
 - Self-ensembling for visual domain adaptation [[pdf]](https://openreview.net/forum?id=rkpoTaxA-)
   - Geoff French, Michal Mackiewicz, Mark Fisher. ICLR'18
@@ -73,11 +73,11 @@ A compilation of domain-shift related papers in reinforcement learning
   - Massimiliano Mancini, Lorenzo Porzi, Samuel Rota Bulò, Barbara Caputo, Elisa Ricci. CVPR'18
 - Collaborative and Adversarial Network for Unsupervised Domain Adaptation (pdf-404)
   - Weichen Zhang, Wanli Ouyang, Wen Li, Dong Xu. CVPR'18
-- Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1704.01705)
+- (WC) Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1704.01705)
   - Swami Sankaranarayanan, Yogesh Balaji, Carlos D. Castillo, Rama Chellappa. CVPR'18
 - Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation [[pdf]](https://arxiv.org/pdf/1705.01314)
   - Yen-Cheng Liu, Yu-Ying Yeh, Tzu-Chien Fu, Sheng-De Wang, Wei-Chen Chiu, Yu-Chiang Frank Wang. CVPR'18
-- Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/1711.06969)
+- (WC) Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/1711.06969)
   - Swami Sankaranarayanan, Yogesh Balaji, Arpit Jain, Ser Nam Lim, Rama Chellappa. CVPR'18
 - Image-Image Domain Adaptation With Preserved Self-Similarity and Domain-Dissimilarity for Person Re-Identification [[pdf]](https://arxiv.org/pdf/1711.07027)
   - Weijian Deng, Liang Zheng, Guoliang Kang, Yi Yang, Qixiang Ye, Jianbin Jiao. CVPR'18
