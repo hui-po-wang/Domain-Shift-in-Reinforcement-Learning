@@ -81,7 +81,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Swami Sankaranarayanan, Yogesh Balaji, Arpit Jain, Ser Nam Lim, Rama Chellappa. CVPR'18
 - Image-Image Domain Adaptation With Preserved Self-Similarity and Domain-Dissimilarity for Person Re-Identification [[pdf]](https://arxiv.org/pdf/1711.07027)
   - Weijian Deng, Liang Zheng, Guoliang Kang, Yi Yang, Qixiang Ye, Jianbin Jiao. CVPR'18
-- Conditional Generative Adversarial Network for Structured Domain Adaptation (pdf-404)
+- (HP) Conditional Generative Adversarial Network for Structured Domain Adaptation (pdf-404)
   - Weixiang Hong, Zhenzhen Wang, Ming Yang, Junsong Yuan. CVPR'18
 - Duplex Generative Adversarial Network for Unsupervised Domain Adaptation [[pdf]](http://vipl.ict.ac.cn/uploadfile/upload/2018041610083083.pdf)
   - Lanqing Hu, Meina Kan, Shiguang Shan, Xilin Chen. CVPR'18
@@ -244,6 +244,8 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Clustering
 - Unsupervised Deep Embedding for Clustering Analysis [[pdf]](https://arxiv.org/abs/1511.06335)[[slides]](https://drive.google.com/file/d/15TWAtdw42BavBT9WQLz8aZMXn08V7oFX/view?usp=sharing)
   - Junyuan Xie, Ross Girshick, Ali Farhadi. ICML'16
+- Deep divergence-based clustering [[pdf]](https://ieeexplore.ieee.org/document/8168158/)
+  - M. Kampffmeyer, S. Løkse, F. M. Bianchi, L. Livi, A.-B. Salberg and R. Jenssen. MLSP'17
   
 ## Others
 - Decorrelated Batch Normalization [[pdf]](https://arxiv.org/abs/1804.08450?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+StatArxiv+%2528arXiv.org%2529)
