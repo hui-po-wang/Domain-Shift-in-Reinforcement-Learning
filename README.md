@@ -254,6 +254,9 @@ A compilation of domain-shift related papers in reinforcement learning
   - Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, Shakir Mohamed. arXiv'17
 - (BS) Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car [[pdf]](https://arxiv.org/pdf/1704.07911) [[ppt]](https://drive.google.com/open?id=1sXfvd10CJ6rMx-Yq9H7fx-8318HfPJni)
   - Mariusz Bojarski, Philip Yeres, Anna Choromanska, Krzysztof Choromanski, Bernhard Firner, Lawrence Jackel, Urs Muller. arXiv'17
+- (HP) Generating a Fusion Image: One's Identity and Another's Shape [[pdf]](https://arxiv.org/abs/1804.07455)
+  - Donggyu Joo, Doyeon Kim, Junmo Kim. CVPR'18
+  
   
 ## Key Papers
 - (JJ) Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping [[pdf]](https://arxiv.org/abs/1709.07857)
