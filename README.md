@@ -75,7 +75,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Weichen Zhang, Wanli Ouyang, Wen Li, Dong Xu. CVPR'18
 - (WC) Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1704.01705)
   - Swami Sankaranarayanan, Yogesh Balaji, Carlos D. Castillo, Rama Chellappa. CVPR'18
-- Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation [[pdf]](https://arxiv.org/pdf/1705.01314)
+- (WC) Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation [[pdf]](https://arxiv.org/pdf/1705.01314)
   - Yen-Cheng Liu, Yu-Ying Yeh, Tzu-Chien Fu, Sheng-De Wang, Wei-Chen Chiu, Yu-Chiang Frank Wang. CVPR'18
 - (WC) Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/1711.06969)
   - Swami Sankaranarayanan, Yogesh Balaji, Arpit Jain, Ser Nam Lim, Rama Chellappa. CVPR'18
@@ -83,7 +83,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Weijian Deng, Liang Zheng, Guoliang Kang, Yi Yang, Qixiang Ye, Jianbin Jiao. CVPR'18
 - (HP) Conditional Generative Adversarial Network for Structured Domain Adaptation (pdf-404)
   - Weixiang Hong, Zhenzhen Wang, Ming Yang, Junsong Yuan. CVPR'18
-- Duplex Generative Adversarial Network for Unsupervised Domain Adaptation [[pdf]](http://vipl.ict.ac.cn/uploadfile/upload/2018041610083083.pdf)
+- (WC) Duplex Generative Adversarial Network for Unsupervised Domain Adaptation [[pdf]](http://vipl.ict.ac.cn/uploadfile/upload/2018041610083083.pdf)
   - Lanqing Hu, Meina Kan, Shiguang Shan, Xilin Chen. CVPR'18
 - Real-Time Monocular Depth Estimation Using Synthetic Data With Domain Adaptation via Image Style Transfer [[pdf]](http://breckon.eu/toby/publications/papers/abarghouei18monocular.pdf)
   - Amir Atapour-Abarghouei, Toby P. Breckon. CVPR'18
