@@ -105,7 +105,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Riccardo Volpi, Pietro Morerio, Silvio Savarese, Vittorio Murino. CVPR'18
 - Fully Convolutional Adaptation Networks for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/1804.08286)
   - Yiheng Zhang, Zhaofan Qiu, Ting Yao, Dong Liu, Tao Mei. CVPR'18
-- Learning to Adapt Structured Output Space for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/1802.10349)
+- (WC) Learning to Adapt Structured Output Space for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/1802.10349)
   - Yi-Hsuan Tsai, Wei-Chih Hung, Samuel Schulter, Kihyuk Sohn, Ming-Hsuan Yang, Manmohan Chandraker. CVPR'18
 - ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes [[pdf]](https://arxiv.org/pdf/1711.11556)
   - Yuhua Chen, Wen Li, Luc Van Gool. CVPR'18
@@ -119,7 +119,7 @@ A compilation of domain-shift related papers in reinforcement learning
     - Paolo Russo, Fabio Maria Carlucci, Tatiana Tommasi, Barbara Caputo. CVPR'18
 - Importance Weighted Adversarial Nets for Partial Domain Adaptation [[pdf]](https://arxiv.org/pdf/1803.09210)
   - Jing Zhang, Zewei Ding, Wanqing Li, Philip Ogunbona. CVPR'18
-- Cross-Domain Self-Supervised Multi-Task Feature Learning Using Synthetic Imagery [[pdf]](https://arxiv.org/pdf/1711.09082.pdf)
+- (WC) Cross-Domain Self-Supervised Multi-Task Feature Learning Using Synthetic Imagery [[pdf]](https://arxiv.org/pdf/1711.09082.pdf)
   - Zhongzheng Ren, Yong Jae Lee. CVPR'18
 - Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains [[pdf]](https://arxiv.org/pdf/1803.06641)
   - Jiahao Pang, Wenxiu Sun, Chengxi Yang, Jimmy Ren, Ruichao Xiao, Jin Zeng, Liang Lin. CVPR'18
