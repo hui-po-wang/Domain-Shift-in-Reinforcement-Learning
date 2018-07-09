@@ -6,6 +6,7 @@ A compilation of domain-shift related papers in reinforcement learning
 - [Domain Shift in Reinforcement Learning](#domain-shift-in-reinforcement-learning)
   - [Inverse Dynamic Model](#inverse-dynamic-model)
   - [Domain Randomization](#domain-randomization)
+- [Segmentation](#segmentation)
 - [Hierarchical Reinforcement Learning](#hierarchical-reinforcement-learning)
 - [Meta-Learning](#meta-learning)
 - [Transfer-Learning](#transfer-learning)
@@ -131,7 +132,38 @@ A compilation of domain-shift related papers in reinforcement learning
   - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. NIPS'17
 - Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/abs/1702.05464)
   - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
-
+  
+## Segmentation
+- Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning [[pdf]](https://arxiv.org/abs/1804.03131)
+  - Yuhua Chen, Jordi Pont-Tuset, Alberto Montes, Luc Van Gool. CVPR'18
+- Learning a Discriminative Feature Network for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1804.09337)
+  - Changqian Yu, Jingbo Wang, Chao Peng, Changxin Gao, Gang Yu, Nong Sang. CVPR'18
+### Semantic Segmentation
+- DenseASPP for Semantic Segmentation in Street Scenes [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.html)
+  - Maoke Yang, Kun Yu, Chi Zhang, Zhiwei Li, Kuiyuan Yang. CVPR'18
+- Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bilinski_Dense_Decoder_Shortcut_CVPR_2018_paper.html)
+  - Piotr Bilinski, Victor Prisacariu. CVPR'18
+### Domain Transfer for Semantic Segmentation
+- Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1711.06969)
+  - Swami Sankaranarayanan, Yogesh Balaji, Arpit Jain, Ser Nam Lim, Rama Chellappa. CVPR'18
+### From higher level information (classification) to lower level information (segmentation)
+- Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning [[pdf]](https://arxiv.org/abs/1802.09129)
+  - Weifeng Ge, Sibei Yang, Yizhou Yu. CVPR'18
+- Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features [[pdf]](https://arxiv.org/abs/1806.04659)
+  - Xiang Wang, Shaodi You, Xi Li, Huimin Ma. CVPR'18
+- Bootstrapping the Performance of Webly Supervised Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Shen_Bootstrapping_the_Performance_CVPR_2018_paper.html)
+  - Tong Shen, Guosheng Lin, Chunhua Shen, Ian Reid. CVPR'18
+- On the Importance of Label Quality for Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zlateski_On_the_Importance_CVPR_2018_paper.html)
+  - Aleksandar Zlateski, Ronnachai Jaroensri, Prafull Sharma, Frédo Durand. CVPR'18
+- Normalized Cut Loss for Weakly-supervised CNN Segmentation [[pdf]](https://arxiv.org/abs/1804.01346)
+  - Meng Tang, Abdelaziz Djelouah, Federico Perazzi, Yuri Boykov, Christopher Schroers. CVPR'18
+- Weakly Supervised Instance Segmentation using Class Peak Response [[pdf]](https://arxiv.org/abs/1804.00880)
+  - Yanzhao Zhou, Yi Zhu, Qixiang Ye, Qiang Qiu, Jianbin Jiao. CVPR'18
+- Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation [[pdf]](https://arxiv.org/abs/1803.10464)
+  - Jiwoon Ahn, Suha Kwak. CVPR'18
+- Instance Embedding Transfer to Unsupervised Video Object Segmentation [[pdf]](https://arxiv.org/abs/1801.00908)
+  - Siyang Li, Bryan Seybold, Alexey Vorobyov, Alireza Fathi, Qin Huang, C.-C. Jay Kuo. CVPR'18
+  
 ## Domain Shift in Reinforcement Learning
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[pdf]](https://arxiv.org/abs/1707.08475)
   - Irina Higgins, Arka Pal, Andrei A. Rusu, Loic Matthey, Christopher P Burgess, Alexander Pritzel, Matthew Botvinick, Charles Blundell, Alexander Lerchner. ICML'17
