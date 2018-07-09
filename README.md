@@ -138,14 +138,26 @@ A compilation of domain-shift related papers in reinforcement learning
   - Yuhua Chen, Jordi Pont-Tuset, Alberto Montes, Luc Van Gool. CVPR'18
 - Learning a Discriminative Feature Network for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1804.09337)
   - Changqian Yu, Jingbo Wang, Chao Peng, Changxin Gao, Gang Yu, Nong Sang. CVPR'18
+- Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Wei_Revisiting_Dilated_Convolution_CVPR_2018_paper.html)
+  - Yunchao Wei, Huaxin Xiao, Honghui Shi, Zequn Jie, Jiashi Feng, Thomas S. Huang. CVPR'18
+- Learning to Adapt Structured Output Space for Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Tsai_Learning_to_Adapt_CVPR_2018_paper.html)
+  - Yi-Hsuan Tsai, Wei-Chih Hung, Samuel Schulter, Kihyuk Sohn, Ming-Hsuan Yang, Manmohan Chandraker. CVPR'18
+- ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_ROAD_Reality_Oriented_CVPR_2018_paper.html)
+  - Yuhua Chen, Wen Li, Luc Van Gool. CVPR'18
 ### Semantic Segmentation
 - DenseASPP for Semantic Segmentation in Street Scenes [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.html)
   - Maoke Yang, Kun Yu, Chi Zhang, Zhiwei Li, Kuiyuan Yang. CVPR'18
 - Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bilinski_Dense_Decoder_Shortcut_CVPR_2018_paper.html)
   - Piotr Bilinski, Victor Prisacariu. CVPR'18
+- Context Encoding for Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Context_Encoding_for_CVPR_2018_paper.html)
+  - Hang Zhang, Kristin Dana, Jianping Shi, Zhongyue Zhang, Xiaogang Wang, Ambrish Tyagi, Amit Agrawal. CVPR'18
+- 3D Semantic Segmentation With Submanifold Sparse Convolutional Networks [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Graham_3D_Semantic_Segmentation_CVPR_2018_paper.pdf)
+  - Benjamin Graham, Martin Engelcke, Laurens van der Maaten. CVPR'18
 ### Domain Transfer for Semantic Segmentation
 - Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1711.06969)
   - Swami Sankaranarayanan, Yogesh Balaji, Arpit Jain, Ser Nam Lim, Rama Chellappa. CVPR'18
+- Fully Convolutional Adaptation Networks for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1804.08286)
+  - Yiheng Zhang, Zhaofan Qiu, Ting Yao, Dong Liu, Tao Mei. CVPR'18
 ### From higher level information (classification) to lower level information (segmentation)
 - Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning [[pdf]](https://arxiv.org/abs/1802.09129)
   - Weifeng Ge, Sibei Yang, Yizhou Yu. CVPR'18
@@ -163,6 +175,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Jiwoon Ahn, Suha Kwak. CVPR'18
 - Instance Embedding Transfer to Unsupervised Video Object Segmentation [[pdf]](https://arxiv.org/abs/1801.00908)
   - Siyang Li, Bryan Seybold, Alexey Vorobyov, Alireza Fathi, Qin Huang, C.-C. Jay Kuo. CVPR'18
+- Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)
+  - Zilong Huang, Xinggang Wang, Jiasi Wang, Wenyu Liu, Jingdong Wang. CVPR'18
   
 ## Domain Shift in Reinforcement Learning
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[pdf]](https://arxiv.org/abs/1707.08475)
