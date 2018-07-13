@@ -82,8 +82,6 @@ A compilation of domain-shift related papers in reinforcement learning
   - Swami Sankaranarayanan, Yogesh Balaji, Arpit Jain, Ser Nam Lim, Rama Chellappa. CVPR'18
 - Image-Image Domain Adaptation With Preserved Self-Similarity and Domain-Dissimilarity for Person Re-Identification [[pdf]](https://arxiv.org/pdf/1711.07027)
   - Weijian Deng, Liang Zheng, Guoliang Kang, Yi Yang, Qixiang Ye, Jianbin Jiao. CVPR'18
-- (HP) Conditional Generative Adversarial Network for Structured Domain Adaptation (pdf-404)
-  - Weixiang Hong, Zhenzhen Wang, Ming Yang, Junsong Yuan. CVPR'18
 - (WC) Duplex Generative Adversarial Network for Unsupervised Domain Adaptation [[pdf]](http://vipl.ict.ac.cn/uploadfile/upload/2018041610083083.pdf)
   - Lanqing Hu, Meina Kan, Shiguang Shan, Xilin Chen. CVPR'18
 - Real-Time Monocular Depth Estimation Using Synthetic Data With Domain Adaptation via Image Style Transfer [[pdf]](http://breckon.eu/toby/publications/papers/abarghouei18monocular.pdf)
@@ -106,8 +104,6 @@ A compilation of domain-shift related papers in reinforcement learning
   - Riccardo Volpi, Pietro Morerio, Silvio Savarese, Vittorio Murino. CVPR'18
 - Fully Convolutional Adaptation Networks for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/1804.08286)
   - Yiheng Zhang, Zhaofan Qiu, Ting Yao, Dong Liu, Tao Mei. CVPR'18
-- (WC) Learning to Adapt Structured Output Space for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/1802.10349)
-  - Yi-Hsuan Tsai, Wei-Chih Hung, Samuel Schulter, Kihyuk Sohn, Ming-Hsuan Yang, Manmohan Chandraker. CVPR'18
 - ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes [[pdf]](https://arxiv.org/pdf/1711.11556)
   - Yuhua Chen, Wen Li, Luc Van Gool. CVPR'18
 - Re-Weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation (pdf-404)
@@ -150,15 +146,15 @@ A compilation of domain-shift related papers in reinforcement learning
 - 3D Semantic Segmentation With Submanifold Sparse Convolutional Networks [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Graham_3D_Semantic_Segmentation_CVPR_2018_paper.pdf)
   - Benjamin Graham, Martin Engelcke, Laurens van der Maaten. CVPR'18
 ### Domain Transfer for Semantic Segmentation
-- Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1711.06969)
+- (HP) Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1711.06969)
   - Swami Sankaranarayanan, Yogesh Balaji, Arpit Jain, Ser Nam Lim, Rama Chellappa. CVPR'18
-- Fully Convolutional Adaptation Networks for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1804.08286)
+- (HP) Fully Convolutional Adaptation Networks for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1804.08286)
   - Yiheng Zhang, Zhaofan Qiu, Ting Yao, Dong Liu, Tao Mei. CVPR'18
-- Conditional Generative Adversarial Network for Structured Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Hong_Conditional_Generative_Adversarial_CVPR_2018_paper.html)
+- (HP) Conditional Generative Adversarial Network for Structured Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Hong_Conditional_Generative_Adversarial_CVPR_2018_paper.html)
   - Weixiang Hong, Zhenzhen Wang, Ming Yang, Junsong Yuan. CVPR'18
-- Learning to Adapt Structured Output Space for Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Tsai_Learning_to_Adapt_CVPR_2018_paper.html)
+- (WC, HP) Learning to Adapt Structured Output Space for Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Tsai_Learning_to_Adapt_CVPR_2018_paper.html)
   - Yi-Hsuan Tsai, Wei-Chih Hung, Samuel Schulter, Kihyuk Sohn, Ming-Hsuan Yang, Manmohan Chandraker. CVPR'18
-- ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_ROAD_Reality_Oriented_CVPR_2018_paper.html)
+- (HP) ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_ROAD_Reality_Oriented_CVPR_2018_paper.html)
   - Yuhua Chen, Wen Li, Luc Van Gool. CVPR'18
 ### Domain Transfer for Depth Estimation
 - AdaDepth: Unsupervised Content Congruent Adaptation for Depth Estimation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Kundu_AdaDepth_Unsupervised_content_cvpr_2018_paper.html)
