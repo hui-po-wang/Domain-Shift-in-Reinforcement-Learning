@@ -307,6 +307,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Donggyu Joo, Doyeon Kim, Junmo Kim. CVPR'18
 - Disentangling Structure and Aesthetics for Style-Aware Image Completion [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gilbert_Disentangling_Structure_and_CVPR_2018_paper.pdf)
   - Andrew Gilbert, John Collomosse, Hailin Jin, Brian Price. CVPR'18
+- (HP) Self-Attention Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1805.08318)
+  - Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena. ArXiv'18
   
   
 ## Key Papers
