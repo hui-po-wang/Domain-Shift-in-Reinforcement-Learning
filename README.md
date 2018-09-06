@@ -128,6 +128,12 @@ A compilation of domain-shift related papers in reinforcement learning
   - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. NIPS'17
 - Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/abs/1702.05464)
   - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
+- AugGAN: Cross Domain Adaptation with GAN-based Data Augmentation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sheng-Wei_Huang_AugGAN_Cross_Domain_ECCV_2018_paper.html)
+  - Sheng-Wei Huang, Che-Tsung Lin, Shu-Ping Chen, Yen-Yi Wu, Po-Hao Hsu, Shang-Hong Lai. ECCV'18
+- Partial Adversarial Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf)
+  - Zhangjie Cao, Lijia Ma, Mingsheng Long, Jianmin Wang. ECCV'18
+- DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.pdf)
+  - Bharath Bhushan Damodaran, Benjamin Kellenberger, Remi Flamary, Devis Tuia, Nicolas Courty. ECCV'18
   
 ## Segmentation
 - Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning [[pdf]](https://arxiv.org/abs/1804.03131)
@@ -156,6 +162,9 @@ A compilation of domain-shift related papers in reinforcement learning
   - Yi-Hsuan Tsai, Wei-Chih Hung, Samuel Schulter, Kihyuk Sohn, Ming-Hsuan Yang, Manmohan Chandraker. CVPR'18
 - (HP) ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_ROAD_Reality_Oriented_CVPR_2018_paper.html)
   - Yuhua Chen, Wen Li, Luc Van Gool. CVPR'18
+- DCAN: Dual Channel-wise Alignment Networks for Unsupervised Scene Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zuxuan_Wu_DCAN_Dual_Channel-wise_ECCV_2018_paper.html)
+  - Zuxuan Wu, Xintong Han, Yen-Liang Lin, Mustafa Gokhan Uzunbas, Tom Goldstein, Ser Nam Lim, Larry S. Davis. ECCV'18
+  
 ### Domain Transfer for Depth Estimation
 - AdaDepth: Unsupervised Content Congruent Adaptation for Depth Estimation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Kundu_AdaDepth_Unsupervised_content_cvpr_2018_paper.html)
   - Jogendra Nath Kundu, Phani Krishna Uppala, Anuj Pahuja, R. Venkatesh Babu. CVPR'18
