@@ -134,6 +134,12 @@ A compilation of domain-shift related papers in reinforcement learning
   - Zhangjie Cao, Lijia Ma, Mingsheng Long, Jianmin Wang. ECCV'18
 - DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.pdf)
   - Bharath Bhushan Damodaran, Benjamin Kellenberger, Remi Flamary, Devis Tuia, Nicolas Courty. ECCV'18
+- Domain Adaptation through Synthesis forUnsupervised Person Re-identification [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.pdf)
+  - Slawomir Bak, Peter Carr, Jean-Francois Lalonde. ECCV'18
+- Open Set Domain Adaptation by Backpropagation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf)
+  - Kuniaki Saito, Shohei Yamamoto, Yoshitaka Ushiku, Tatsuya Harada. ECCV'18
+- Deep Adversarial Attention Alignment forUnsupervised Domain Adaptation:the Benefit of Target Expectation Maximization [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf)
+  - Guoliang Kang, Liang Zheng, Yan Yan, Zikun Liu, Yi Yang. ECCV'18
   
 ## Segmentation
 - Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning [[pdf]](https://arxiv.org/abs/1804.03131)
@@ -151,6 +157,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Hang Zhang, Kristin Dana, Jianping Shi, Zhongyue Zhang, Xiaogang Wang, Ambrish Tyagi, Amit Agrawal. CVPR'18
 - 3D Semantic Segmentation With Submanifold Sparse Convolutional Networks [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Graham_3D_Semantic_Segmentation_CVPR_2018_paper.pdf)
   - Benjamin Graham, Martin Engelcke, Laurens van der Maaten. CVPR'18
+- ExFuse: Enhancing Feature Fusion for Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenli_Zhang_ExFuse_Enhancing_Feature_ECCV_2018_paper.pdf)
+   - Zhenli Zhang, Xiangyu Zhang, Chao Peng, Xiangyang Xue, Jian Sun. ECCV'18
 ### Domain Transfer for Semantic Segmentation
 - (HP) Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1711.06969)
   - Swami Sankaranarayanan, Yogesh Balaji, Arpit Jain, Ser Nam Lim, Rama Chellappa. CVPR'18
@@ -164,6 +172,12 @@ A compilation of domain-shift related papers in reinforcement learning
   - Yuhua Chen, Wen Li, Luc Van Gool. CVPR'18
 - DCAN: Dual Channel-wise Alignment Networks for Unsupervised Scene Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zuxuan_Wu_DCAN_Dual_Channel-wise_ECCV_2018_paper.html)
   - Zuxuan Wu, Xintong Han, Yen-Liang Lin, Mustafa Gokhan Uzunbas, Tom Goldstein, Ser Nam Lim, Larry S. Davis. ECCV'18
+- Effective Use of Synthetic Data forUrban Scene Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fatemeh_Sadat_Saleh_Effective_Use_of_ECCV_2018_paper.pdf)
+  - Fatemeh Sadat Saleh, Mohammad Sadegh Aliakbarian, Mathieu Salzmann, Lars Petersson, Jose M. Alvarez. ECCV'18
+- Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xinge_Zhu_Penalizing_Top_Performers_ECCV_2018_paper.pdf)
+  - Xinge Zhu, Hui Zhou, Ceyuan Yang, Jianping Shi, Dahua Lin. ECCV'18
+- Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf)
+  - Yang Zou, Zhiding Yu, B.V.K. Vijaya Kumar, Jinsong Wang. ECCV'18
   
 ### Domain Transfer for Depth Estimation
 - AdaDepth: Unsupervised Content Congruent Adaptation for Depth Estimation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Kundu_AdaDepth_Unsupervised_content_cvpr_2018_paper.html)
