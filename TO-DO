@@ -1,0 +1,6 @@
+# Baseline GTA-clean+MS+VGG
+1. Multi-feature agnostic
+2. When do we start using s2t translated labels ?
+3. Disable s2t translated label (i.e., only keep DSN architectures and comapred to Dennis')
+4. Add a regularization to minimize the l1 norm of F_s and F_s2t
+5. Check if private encoders work
