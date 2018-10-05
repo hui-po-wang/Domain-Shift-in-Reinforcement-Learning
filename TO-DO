@@ -1,11 +1,17 @@
 # Baseline GTA-clean+MS+VGG
-1. Multi-feature agnostic
+(HP) 1. Multi-feature agnostic
   - 回歸ＤＳＮ設計，確定做在output space或feature space哪個performance比較好。
-2. When do we start using s2t translated labels ?
+(HP) 2. When do we start using s2t translated labels ?
   - 理論上一開始的s2t quality比較低或比較模糊，可能導致產生的圖片與source labels不相符，測試在後面一點開始transfer是否能增進performance與穩定度。
-3. Disable s2t translated label (i.e., only keep DSN architectures and comapred to Dennis')
+(WC) 3. Disable s2t translated label (i.e., only keep DSN architectures and comapred to Dennis')
   - Ablatino study. 如果這個設定會比enable差表示translated label有用，除此之外如果該performance比Dennis好，我們同時可以證明ＤＳＮ架構有好處。
-4. Add a regularization to minimize the l1 norm of F_s and F_s2t
+(WC) 4. Add a regularization to minimize the l1 norm of F_s and F_s2t
   - translated labels某種程度而言也是在要求轉換過後的圖應與source經過shared encoder後的output應一致。該實驗探討直接在feature space上做是否有更多好處。
-5. Check if private encoders work
+(HP) 5. Check if private encoders work
   - one of our main contribution is the DSN architecture, so it's important to check if our private encoder works as a part of DSN.
+(WC) 6. Modify the decoder archicture into "Y" shape
+  - improve the s2t image quality, because we think s2t is sharper than target image
+(HP) 7. Dennis code run on GTA_Clean
+
+# CVPR template 
+(HP) do it 
