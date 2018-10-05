@@ -1,4 +1,5 @@
 # Baseline GTA-clean+MS+VGG
+10/05
 (HP) 1. Multi-feature agnostic
   - 回歸ＤＳＮ設計，確定做在output space或feature space哪個performance比較好。
 (HP) 2. When do we start using s2t translated labels ?
