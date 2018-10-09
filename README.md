@@ -170,13 +170,13 @@ A compilation of domain-shift related papers in reinforcement learning
   - Yi-Hsuan Tsai, Wei-Chih Hung, Samuel Schulter, Kihyuk Sohn, Ming-Hsuan Yang, Manmohan Chandraker. CVPR'18
 - (HP) ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_ROAD_Reality_Oriented_CVPR_2018_paper.html)
   - Yuhua Chen, Wen Li, Luc Van Gool. CVPR'18
-- DCAN: Dual Channel-wise Alignment Networks for Unsupervised Scene Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zuxuan_Wu_DCAN_Dual_Channel-wise_ECCV_2018_paper.html)
+- (WC, HP) DCAN: Dual Channel-wise Alignment Networks for Unsupervised Scene Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zuxuan_Wu_DCAN_Dual_Channel-wise_ECCV_2018_paper.html)
   - Zuxuan Wu, Xintong Han, Yen-Liang Lin, Mustafa Gokhan Uzunbas, Tom Goldstein, Ser Nam Lim, Larry S. Davis. ECCV'18
-- Effective Use of Synthetic Data forUrban Scene Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fatemeh_Sadat_Saleh_Effective_Use_of_ECCV_2018_paper.pdf)
+- (WC, HP) Effective Use of Synthetic Data forUrban Scene Semantic Segmentation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fatemeh_Sadat_Saleh_Effective_Use_of_ECCV_2018_paper.pdf)
   - Fatemeh Sadat Saleh, Mohammad Sadegh Aliakbarian, Mathieu Salzmann, Lars Petersson, Jose M. Alvarez. ECCV'18
-- Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xinge_Zhu_Penalizing_Top_Performers_ECCV_2018_paper.pdf)
+- (WC, HP) Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xinge_Zhu_Penalizing_Top_Performers_ECCV_2018_paper.pdf)
   - Xinge Zhu, Hui Zhou, Ceyuan Yang, Jianping Shi, Dahua Lin. ECCV'18
-- Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf)
+- (WC, HP) Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf)
   - Yang Zou, Zhiding Yu, B.V.K. Vijaya Kumar, Jinsong Wang. ECCV'18
   
 ### Domain Transfer for Depth Estimation
