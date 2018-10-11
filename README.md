@@ -134,7 +134,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
 - AugGAN: Cross Domain Adaptation with GAN-based Data Augmentation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sheng-Wei_Huang_AugGAN_Cross_Domain_ECCV_2018_paper.html)
   - Sheng-Wei Huang, Che-Tsung Lin, Shu-Ping Chen, Yen-Yi Wu, Po-Hao Hsu, Shang-Hong Lai. ECCV'18
-- Partial Adversarial Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf)
+- (YC) Partial Adversarial Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf)
   - Zhangjie Cao, Lijia Ma, Mingsheng Long, Jianmin Wang. ECCV'18
 - DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.pdf)
   - Bharath Bhushan Damodaran, Benjamin Kellenberger, Remi Flamary, Devis Tuia, Nicolas Courty. ECCV'18
