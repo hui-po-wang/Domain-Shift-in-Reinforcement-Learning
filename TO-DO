@@ -15,13 +15,13 @@
 (HP) 7. Dennis code run on GTA_Clean
 
 10/12
- 8. Pretrain private encoder and decoder -> freeze shared encoder layer3, layer4
+(WC) 8. Pretrain private encoder and decoder -> freeze shared encoder layer3, layer4
   - We think the different initial method for the model will cause imbanlance problem and avoid private encoder working. 
- 9. Add style transfer skill "Adain" on the image translation loss. Low level feature of VGG, and match channel wise mean
+(HP) 9. Add style transfer skill "Adain" on the image translation loss. Low level feature of VGG, and match channel wise mean
   - Walon suggest this idea make sense for style transfer
-10. Which layer of feature is better to be the input of the private encoder ? layer0, layer1
+(HP)10. Which layer of feature is better to be the input of the private encoder ? layer0, layer1
   - make sure which layer is better for disentanglement
-11. latent reconstruction
+(HP)11. latent reconstruction
   - Walon think it will be benefitial for disentanglement
 
 # CVPR template 
