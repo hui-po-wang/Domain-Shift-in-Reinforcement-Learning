@@ -19,10 +19,38 @@
   - We think the different initial method for the model will cause imbanlance problem and avoid private encoder working. 
 (HP) 9. Add style transfer skill "Adain" on the image translation loss. Low level feature of VGG, and match channel wise mean
   - Walon suggest this idea make sense for style transfer
-(HP)10. Which layer of feature is better to be the input of the private encoder ? layer0, layer1
+(HP) 10. Which layer of feature is better to be the input of the private encoder ? layer0, layer1
   - make sure which layer is better for disentanglement
-(HP)11. latent reconstruction
+(HP) 11. latent reconstruction
   - Walon think it will be benefitial for disentanglement
+
+
+10/15
+Three possible ways
+  - Verify segmentation does not contain texture information in deeper levels
+  - Keep DSN! Tuning todo_9 to disentangle texture and structure successfully and achieve similar performance meanwhile
+  - Pure augmentation
+  
+(WC) 12. Traing hyper-base without tranlsated labels
+(WC) 13. Verify our assumption. Use only layer4 feats to reconstrcut original input images.
+  - Fixed Dennis's segmentation model weights to do so
+  - With only one decoder and no other inputs.
+(HP) 14. Tuning todo_9
+  a. Training todo_9 without adversarial loss
+    - check if it can generate better image quality and keep the structure at the same time
+  b. Adjusting weights of mean matching [1/8, 1/16, 1/32, 0 ,0]
+    - just adjust
+  c. Training todo_9 with variance matching only
+    - just train
+  d. Training todo_9 with variance and mean matching
+    - just train la !
+  e. Training todo_9 without translated labels (lower priority)
+    - todo_9 is not stable yet. It's meaningless to do this.
+(WC) 15. Using the same encoder for both s2t and t2s images
+  - Ideally, source dataset contains variety of styles which helps the encoder to learn different styles.
+  In this experiement, we hope that by using the same encoder, target images can benefit from various source styles and generate more styles.
+  - Remove the domain codes
+  
 
 # CVPR template 
 (HP) do it 
