@@ -51,6 +51,19 @@ Three possible ways
   In this experiement, we hope that by using the same encoder, target images can benefit from various source styles and generate more styles.
   - Remove the domain codes
   
+10/19
+  Experiments may contain:
+    - GTA5 -> CityScapes segmentation performance
+    - SYNTHIA -> CityScapes segmentation performance
+    - Ablation study for loss choice
+    - Ablation study for differnet layer choice
+    - Visualization of prediction segmentation map
+    - Visualization of disentangle ability
+    
+  16. Full-image hyper base
+  17. Hyper base with reconstruction weight self-mean, self-var merge
+  18. SYNTHIA loader
+  
 
 # CVPR template 
 (HP) do it 
