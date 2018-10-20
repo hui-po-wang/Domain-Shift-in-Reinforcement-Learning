@@ -140,7 +140,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Bharath Bhushan Damodaran, Benjamin Kellenberger, Remi Flamary, Devis Tuia, Nicolas Courty. ECCV'18
 - Domain Adaptation through Synthesis forUnsupervised Person Re-identification [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.pdf)
   - Slawomir Bak, Peter Carr, Jean-Francois Lalonde. ECCV'18
-- Open Set Domain Adaptation by Backpropagation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf)
+- (AH)Open Set Domain Adaptation by Backpropagation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf)
   - Kuniaki Saito, Shohei Yamamoto, Yoshitaka Ushiku, Tatsuya Harada. ECCV'18
 - (HJ)Deep Adversarial Attention Alignment forUnsupervised Domain Adaptation:the Benefit of Target Expectation Maximization [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf)
   - Guoliang Kang, Liang Zheng, Yan Yan, Zikun Liu, Yi Yang. ECCV'18
