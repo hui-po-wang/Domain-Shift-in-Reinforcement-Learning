@@ -124,7 +124,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Zhongzheng Ren, Yong Jae Lee. CVPR'18
 - Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains [[pdf]](https://arxiv.org/pdf/1803.06641)
   - Jiahao Pang, Wenxiu Sun, Chengxi Yang, Jimmy Ren, Ruichao Xiao, Jin Zeng, Liang Lin. CVPR'18
-- Efficient parametrization of multi-domain deep neural networks [[pdf]](https://arxiv.org/pdf/1803.10082)
+- (YC) Efficient parametrization of multi-domain deep neural networks [[pdf]](https://arxiv.org/pdf/1803.10082)
   - Sylvestre-Alvise Rebuffi, Hakan Bilen, Andrea Vedaldi. CVPR'18
 - Domain Generalization With Adversarial Feature Learning (pdf-404)
   - Haoliang Li, Sinno Jialin Pan, Shiqi Wang, Alex C. Kot. CVPR'18
