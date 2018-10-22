@@ -64,10 +64,11 @@ Three possible ways
   17. Hyper base with reconstruction weight self-mean, self-var merge
   18. SYNTHIA loader
   
-  ultimate-base
+  ultimate-base crop
   (WC) 19. ultimate-base, private encoder input = layer3
   (WC) 20. source only
   (WC) 21. DSN w/o adversarial loss
+  (WC) 22. Dennis model
   
 # CVPR template 
 (HP) do it 
