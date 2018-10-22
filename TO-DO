@@ -69,6 +69,7 @@ Three possible ways
   (WC) 20. source only
   (WC) 21. DSN w/o adversarial loss
   (WC) 22. Dennis model
+  (WC) 23. FCN8s shared-encoder
   
 # CVPR template 
 (HP) do it 
