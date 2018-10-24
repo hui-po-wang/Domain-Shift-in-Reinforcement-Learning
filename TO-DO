@@ -71,6 +71,7 @@ Three possible ways
   (WC) 22. Dennis model
   (WC) 23. True DeepLab2 shared-encoder
   (WC) 24. PSP shared-encoder 
+  (HP) 25. DSN w/ 2x segmentation loss
   
 # CVPR template 
 (HP) do it 
