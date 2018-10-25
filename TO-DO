@@ -72,6 +72,7 @@ Three possible ways
   (WC) 23. True DeepLab2 shared-encoder
   (WC) 24. PSP shared-encoder 
   (HP) 25. DSN w/ 2x segmentation loss
+  (WC) 26. generate s2t image and train another segmentation model
   
 # CVPR template 
 (HP) do it 
