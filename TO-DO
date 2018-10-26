@@ -73,6 +73,10 @@ Three possible ways
   (WC) 24. PSP shared-encoder 
   (HP) 25. DSN w/ 2x segmentation loss
   (WC) 26. generate s2t image and train another segmentation model
-  
+
+10/28
+  (HP) 27. tune DSN
+  (WC) 28. ultimate base with aspp discriminator
+  (WC) 29. tune psp
 # CVPR template 
 (HP) do it 
