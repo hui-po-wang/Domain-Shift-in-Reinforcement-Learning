@@ -78,6 +78,7 @@ Three possible ways
   (HP) 27. tune DSN
     a. tran rec weights [1/2, 1/4, 1/8, 1, 1]
     b. DSN w/ rec loss only
+    c. DSN w/ layer 3 seg prediction
   (WC) 28. ultimate base with aspp discriminator
   (WC) 29. tune psp
 # CVPR template 
