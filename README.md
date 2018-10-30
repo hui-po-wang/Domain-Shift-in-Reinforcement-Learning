@@ -130,7 +130,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Haoliang Li, Sinno Jialin Pan, Shiqi Wang, Alex C. Kot. CVPR'18
 - (HP) Label Efficient Learning of Transferable Representations acrosss Domains and Tasks [[pdf]](https://arxiv.org/abs/1712.00123)
   - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. NIPS'17
-- Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/abs/1702.05464)
+- (YC) Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/abs/1702.05464)
   - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
 - AugGAN: Cross Domain Adaptation with GAN-based Data Augmentation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sheng-Wei_Huang_AugGAN_Cross_Domain_ECCV_2018_paper.html)
   - Sheng-Wei Huang, Che-Tsung Lin, Shu-Ping Chen, Yen-Yi Wu, Po-Hao Hsu, Shang-Hong Lai. ECCV'18
