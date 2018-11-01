@@ -88,5 +88,7 @@ Three possible ways
  (HP) 30. Generate confusion matrix of DSN 
   - Although DSN can learn domain-invariant features, it might suffer from mis-alignment problem. confusion matrix
  (HP) 31. considering other contribution, for example, how can we utilize t2s.
+    a. translation starts from 0 step
+    b. translation starts from 15000 step
  b. if we only bias to source-dataset, there might be domain gaps. If we bias to translated images, it might suffer from error propogation.
  
