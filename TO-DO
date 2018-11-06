@@ -99,3 +99,6 @@ Three possible ways
   (HP) 33. source only + DSN
   (HP) 34. Check source only confusion matrix
   (WC) 35. Pretrain private encoders and decoders with Dennis' weights
+  
+ 11/6
+       36. ultimate_base_single mean weights [1, 0.5, 0.25]
