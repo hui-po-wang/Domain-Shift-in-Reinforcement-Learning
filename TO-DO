@@ -96,7 +96,7 @@ Three possible ways
   (WC) 32. Semi-supervised with DSN
   
  11/2
-  (HP) 33. source only + DSN
+  (HP) 33. source only + DSN (single-level)
   (HP) 34. Check source only confusion matrix
   (WC) 35. Pretrain private encoders and decoders with Dennis' weights
   
