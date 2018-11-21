@@ -106,11 +106,21 @@ Three possible ways
        37. todo33 w/o trans rec
         - to show the difference between ours and dsn
 
- 11/20
-        v1. 同一個cityscapes的video sequence左邊是原圖右邊是轉換過的圖片，然後做成像video一樣可以播放
-        v2. 原圖, source only, seg-adaptation, ours w/ LT 四種video比較
-        v3. 分解再合成，證明學到structure
-        v4. 玩ＧＴＡ囉 收集影片 去崔佛家
+ 11/20 -- supplement
+  VIDEO
+       idea 同一個cityscapes的video sequence左邊是原圖右邊是轉換過的圖片，然後做成像video一樣可以播放
+  (HP) v1. seg_map 原圖, source only, seg-adaptation, ours w/ LT 四種video比較
+  (WC) v2. translation video 證明學到structure GTA TO CITYSCPAE, CITYSCPAE TO GTA 
+  (WC) v3. restoration video 證明學到structure GTA TO CITYSCPAE TO GTA, CITYSCPAE TO GTA TO CITYSCPAE
+  (HP) v4. 玩ＧＴＡ囉 收集影片 去崔佛家 -- DONE
         先找一段cityscapes video seq.
         產seg map video: source only, dennis, ultimate_base
         研究一下怎麼剪影片
+  Paper
+       GTAV
+  (WC) p1. rectore     imege -> City to GTAV to City, Synthia to GTAV to Synthia 各三組
+       SYNTHIA
+  (HP) p2. seg_map -> source only, seg-adpt, DISE 五組
+  (WC) p3. translation image -> City to Synthia , Synthia to City 各三組
+  (WC) p4. rectore     imege -> City to Synthia to City, Synthia to City to Synthia 各三組
+      
