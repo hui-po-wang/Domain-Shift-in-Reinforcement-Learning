@@ -123,4 +123,24 @@ Three possible ways
   (HP) p2. seg_map -> source only, seg-adpt, DISE 五組
   (WC) p3. translation image -> City to Synthia , Synthia to City 各三組
   (WC) p4. rectore     imege -> City to Synthia to City, Synthia to City to Synthia 各三組
+  
+  11/22
+  video structure
+  1. Paper title (including title and submission id)
+  (HP) 2. Task (unsupervised domain adaptation for semantic segmentation)
+    - only source labels are available, while target labels are unreachable. In this situation, we hope our model trained with source data can generalize well to target domains.
+    - Cityscapes image video, source-only prediction video, DISE prediction video
+  3. Overview
+    - Source-only (Two scenes, one is to explain why we train models with sythetic data, the other illustrate the domain shift problems (poor generalizability) )
+    - Conventional Adaptation (The most common way to solve domain shift problems, why matching distributions across domains fails)
+    - DISE (disentanglement, structure, texture, check paper)
+    - Label transfer (umm you know it)
+  4. Experiments
+    - Seg maps
+      - Four images in a set and three sets (GT, source-only, Conventional Adaptation, DISE)
+      - Seg videos (1:30, sidewalk dennis vs. DISE)
+    - Translation (videos)
+  5. End of videos
+    - Thank you for your attention. Models and source codes will be released soon.
+    - Paper title and the id.
       
