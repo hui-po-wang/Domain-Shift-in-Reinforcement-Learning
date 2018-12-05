@@ -194,6 +194,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Xinge Zhu, Hui Zhou, Ceyuan Yang, Jianping Shi, Dahua Lin. ECCV'18
 - (WC, HP) Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf)
   - Yang Zou, Zhiding Yu, B.V.K. Vijaya Kumar, Jinsong Wang. ECCV'18
+- Adversarial Multiple Source Domain Adaptation [[pdf]](http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation)
+  - Han Zhao · Shanghang Zhang · Guanhang Wu · José M. F. Moura · Joao P Costeira · Geoffrey Gordon. NIPS'19
   
 ### Domain Transfer for Depth Estimation
 - AdaDepth: Unsupervised Content Congruent Adaptation for Depth Estimation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Kundu_AdaDepth_Unsupervised_content_cvpr_2018_paper.html)
