@@ -3,6 +3,7 @@ A compilation of domain-shift related papers in reinforcement learning
 
 ## Contents
 - [Domain Adaption](#domain-adaption)
+  - [Partial Transfer or OpenSet adaptation](#partial-transfer-or-openset-adaptation)
 - [Domain Shift in Reinforcement Learning](#domain-shift-in-reinforcement-learning)
   - [Inverse Dynamic Model](#inverse-dynamic-model)
   - [Domain Randomization](#domain-randomization)
@@ -134,17 +135,22 @@ A compilation of domain-shift related papers in reinforcement learning
   - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
 - AugGAN: Cross Domain Adaptation with GAN-based Data Augmentation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sheng-Wei_Huang_AugGAN_Cross_Domain_ECCV_2018_paper.html)
   - Sheng-Wei Huang, Che-Tsung Lin, Shu-Ping Chen, Yen-Yi Wu, Po-Hao Hsu, Shang-Hong Lai. ECCV'18
-- (YC) Partial Adversarial Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf)
-  - Zhangjie Cao, Lijia Ma, Mingsheng Long, Jianmin Wang. ECCV'18
 - DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.pdf)
   - Bharath Bhushan Damodaran, Benjamin Kellenberger, Remi Flamary, Devis Tuia, Nicolas Courty. ECCV'18
-- (HJ)Domain Adaptation through Synthesis forUnsupervised Person Re-identification [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.pdf)
+- (HJ) Domain Adaptation through Synthesis forUnsupervised Person Re-identification [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.pdf)
   - Slawomir Bak, Peter Carr, Jean-Francois Lalonde. ECCV'18
-- (AH)Open Set Domain Adaptation by Backpropagation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf)
+- (AH) Open Set Domain Adaptation by Backpropagation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf)
   - Kuniaki Saito, Shohei Yamamoto, Yoshitaka Ushiku, Tatsuya Harada. ECCV'18
-- (HJ)Deep Adversarial Attention Alignment forUnsupervised Domain Adaptation:the Benefit of Target Expectation Maximization [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf)
+- (HJ) Deep Adversarial Attention Alignment forUnsupervised Domain Adaptation:the Benefit of Target Expectation Maximization [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf)
   - Guoliang Kang, Liang Zheng, Yan Yan, Zikun Liu, Yi Yang. ECCV'18
-  
+### Partial Transfer or OpenSet adaptation
+- (YC) Partial Adversarial Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf)
+  - Zhangjie Cao, Lijia Ma, Mingsheng Long, Jianmin Wang. ECCV'18
+- (AH) Open Set Domain Adaptation by Backpropagation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf)
+  - Kuniaki Saito, Shohei Yamamoto, Yoshitaka Ushiku, Tatsuya Harada. ECCV'18
+- (HP) Unsupervised Domain Adaptation for Distance Metric Learning [[pdf]](https://openreview.net/forum?id=BklhAj09K7)
+  - Anonymous. ICLR'19 under review as a conference paper
+
 ## Segmentation
 - Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning [[pdf]](https://arxiv.org/abs/1804.03131)
   - Yuhua Chen, Jordi Pont-Tuset, Alberto Montes, Luc Van Gool. CVPR'18
