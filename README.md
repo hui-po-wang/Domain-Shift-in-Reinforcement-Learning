@@ -129,8 +129,6 @@ A compilation of domain-shift related papers in reinforcement learning
   - Sylvestre-Alvise Rebuffi, Hakan Bilen, Andrea Vedaldi. CVPR'18
 - Domain Generalization With Adversarial Feature Learning (pdf-404)
   - Haoliang Li, Sinno Jialin Pan, Shiqi Wang, Alex C. Kot. CVPR'18
-- (HP) Label Efficient Learning of Transferable Representations acrosss Domains and Tasks [[pdf]](https://arxiv.org/abs/1712.00123)
-  - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. NIPS'17
 - (YC) Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/abs/1702.05464)
   - Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell. CVPR'17
 - AugGAN: Cross Domain Adaptation with GAN-based Data Augmentation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sheng-Wei_Huang_AugGAN_Cross_Domain_ECCV_2018_paper.html)
@@ -144,6 +142,8 @@ A compilation of domain-shift related papers in reinforcement learning
 - (HJ) Deep Adversarial Attention Alignment forUnsupervised Domain Adaptation:the Benefit of Target Expectation Maximization [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf)
   - Guoliang Kang, Liang Zheng, Yan Yan, Zikun Liu, Yi Yang. ECCV'18
 ### Partial Transfer or OpenSet adaptation
+- (HP) Label Efficient Learning of Transferable Representations acrosss Domains and Tasks [[pdf]](https://arxiv.org/abs/1712.00123)
+  - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. NIPS'17
 - (YC) Partial Adversarial Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf)
   - Zhangjie Cao, Lijia Ma, Mingsheng Long, Jianmin Wang. ECCV'18
 - (AH) Open Set Domain Adaptation by Backpropagation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf)
