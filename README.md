@@ -150,6 +150,12 @@ A compilation of domain-shift related papers in reinforcement learning
   - Kuniaki Saito, Shohei Yamamoto, Yoshitaka Ushiku, Tatsuya Harada. ECCV'18
 - (HP) Unsupervised Domain Adaptation for Distance Metric Learning [[pdf]](https://openreview.net/forum?id=BklhAj09K7)
   - Anonymous. ICLR'19 under review as a conference paper
+- (WC) Importance Weighted Adversarial Nets for Partial Domain Adaptation [[pdf]](https://arxiv.org/pdf/1803.09210)
+  - Jing Zhang, Zewei Ding, Wanqing Li, Philip Ogunbona. CVPR'18
+- (WC, BS) Partial Transfer Learning With Selective Adversarial Networks. [[pdf]](https://arxiv.org/pdf/1707.07901.pdf)
+  - Zhangjie Cao, Mingsheng Long, Jianmin Wang, Michael I. Jordan. CVPR'18
+- Boosting Domain Adaptation by Discovering Latent Domains [[pdf]](http://research.mapillary.com/img/publications/CVPR18b.pdf)
+  - Massimiliano Mancini, Lorenzo Porzi, Samuel Rota Bulò, Barbara Caputo, Elisa Ricci. CVPR'18
 
 ## Segmentation
 - Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning [[pdf]](https://arxiv.org/abs/1804.03131)
