@@ -141,6 +141,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Kuniaki Saito, Shohei Yamamoto, Yoshitaka Ushiku, Tatsuya Harada. ECCV'18
 - (HJ) Deep Adversarial Attention Alignment forUnsupervised Domain Adaptation:the Benefit of Target Expectation Maximization [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf)
   - Guoliang Kang, Liang Zheng, Yan Yan, Zikun Liu, Yi Yang. ECCV'18
+- Adversarial Multiple Source Domain Adaptation [[pdf]](http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation)
+  - Han Zhao · Shanghang Zhang · Guanhang Wu · José M. F. Moura · Joao P Costeira · Geoffrey Gordon. NIPS'19
 ### Partial Transfer or OpenSet adaptation
 - (HP) Label Efficient Learning of Transferable Representations acrosss Domains and Tasks [[pdf]](https://arxiv.org/abs/1712.00123)
   - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. NIPS'17
@@ -154,7 +156,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Jing Zhang, Zewei Ding, Wanqing Li, Philip Ogunbona. CVPR'18
 - (WC, BS) Partial Transfer Learning With Selective Adversarial Networks. [[pdf]](https://arxiv.org/pdf/1707.07901.pdf)
   - Zhangjie Cao, Mingsheng Long, Jianmin Wang, Michael I. Jordan. CVPR'18
-- Boosting Domain Adaptation by Discovering Latent Domains [[pdf]](http://research.mapillary.com/img/publications/CVPR18b.pdf)
+- (HP) Boosting Domain Adaptation by Discovering Latent Domains [[pdf]](http://research.mapillary.com/img/publications/CVPR18b.pdf)
   - Massimiliano Mancini, Lorenzo Porzi, Samuel Rota Bulò, Barbara Caputo, Elisa Ricci. CVPR'18
 
 ## Segmentation
@@ -194,8 +196,6 @@ A compilation of domain-shift related papers in reinforcement learning
   - Xinge Zhu, Hui Zhou, Ceyuan Yang, Jianping Shi, Dahua Lin. ECCV'18
 - (WC, HP) Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf)
   - Yang Zou, Zhiding Yu, B.V.K. Vijaya Kumar, Jinsong Wang. ECCV'18
-- Adversarial Multiple Source Domain Adaptation [[pdf]](http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation)
-  - Han Zhao · Shanghang Zhang · Guanhang Wu · José M. F. Moura · Joao P Costeira · Geoffrey Gordon. NIPS'19
   
 ### Domain Transfer for Depth Estimation
 - AdaDepth: Unsupervised Content Congruent Adaptation for Depth Estimation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Kundu_AdaDepth_Unsupervised_content_cvpr_2018_paper.html)
