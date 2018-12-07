@@ -144,6 +144,8 @@ A compilation of domain-shift related papers in reinforcement learning
 - Adversarial Multiple Source Domain Adaptation [[pdf]](http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation)
   - Han Zhao · Shanghang Zhang · Guanhang Wu · José M. F. Moura · Joao P Costeira · Geoffrey Gordon. NIPS'19
 ### Partial Transfer or OpenSet adaptation
+- Open Set Domain Adaptation [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237350)
+  -  Pau Panareda Busto, Juergen Gall. ICCV'17
 - (HP) Label Efficient Learning of Transferable Representations acrosss Domains and Tasks [[pdf]](https://arxiv.org/abs/1712.00123)
   - Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. NIPS'17
 - (YC) Partial Adversarial Domain Adaptation [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf)
