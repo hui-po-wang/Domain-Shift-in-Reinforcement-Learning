@@ -14,6 +14,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - [From higher level information (classification) to lower level information (segmentation)](#from-higher-level-information-classification-to-lower-level-information-segmentation)
 - [Hierarchical Reinforcement Learning](#hierarchical-reinforcement-learning)
 - [Meta-Learning](#meta-learning)
+- [Metric-Learning](#metric-learning)
 - [Transfer-Learning](#transfer-learning)
 - [Few-Shot Learning](#few-shot-learning)
 - [Evaluating Performance of Policies](#evaluating-performance-of-policies)
@@ -271,6 +272,24 @@ A compilation of domain-shift related papers in reinforcement learning
 - Learning to learn by gradient descent by gradient descent [[pdf]](https://arxiv.org/abs/1606.04474)
   - Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas. arXiv'16
 
+## Metric-Learning
+- Deep Metric Learning with Hierarchical Triplet Loss [[pdf]](https://arxiv.org/abs/1810.06951)
+  - Weifeng Ge, Weilin Huang, Dengke Dong, Matthew R. Scott. ECCV'18
+- An Adversarial Approach to Hard Triplet Generation [[pdf]](http://www.eecs.ucf.edu/~gqi/publications/eccv18_htg.pdf)
+  - Yiru Zhao, Zhongming Jin, Guo-jun Qi, Hongtao Lu, Xian-sheng Hua. ECCV'18
+- Deep Adversarial Metric Learning [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0350.pdf)
+  - Yueqi Duan, Wenzhao Zheng, Xudong Lin, Jiwen Lu, Jie Zhou. CVPR'18
+- Virtual Class Enhanced Discriminative Embedding Learning [[pdf]](https://arxiv.org/abs/1811.12611)
+  - Binghui Chen, Weihong Deng, Haifeng Shen. NIPS'18
+- Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.pdf)
+  - Zhirong Wu, Yuanjun Xiong, Stella Yu, Dahua Lin. CVPR'18
+- Deep Metric Learning with Angular Loss [[pdf]](https://arxiv.org/abs/1708.01682)
+  - Jian Wang, Feng Zhou, Shilei Wen, Xiao Liu, Yuanqing Lin. ICCV'17
+- Significance of Softmax-based Features in Comparison to Distance Metric Learning-based Features [[pdf]](https://arxiv.org/abs/1712.10151)
+  - Shota Horiguchi, Daiki Ikami, Kiyoharu Aizawa. ArXiv'17
+- Deep Metric Learning via Facility Location [[pdf]](https://arxiv.org/abs/1612.01213)
+  - Hyun Oh Song, Stefanie Jegelka, Vivek Rathod, Kevin Murphy. CVPR'17
+  
 ## Transfer Learning
 - Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1703.02949)
   - Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine. ICLR'17
