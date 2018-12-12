@@ -275,9 +275,9 @@ A compilation of domain-shift related papers in reinforcement learning
 ## Metric-Learning
 - Deep Metric Learning with Hierarchical Triplet Loss [[pdf]](https://arxiv.org/abs/1810.06951)
   - Weifeng Ge, Weilin Huang, Dengke Dong, Matthew R. Scott. ECCV'18
-- An Adversarial Approach to Hard Triplet Generation [[pdf]](http://www.eecs.ucf.edu/~gqi/publications/eccv18_htg.pdf)
+- (WC) An Adversarial Approach to Hard Triplet Generation [[pdf]](http://www.eecs.ucf.edu/~gqi/publications/eccv18_htg.pdf)
   - Yiru Zhao, Zhongming Jin, Guo-jun Qi, Hongtao Lu, Xian-sheng Hua. ECCV'18
-- Deep Adversarial Metric Learning [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0350.pdf)
+- (WC) Deep Adversarial Metric Learning [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0350.pdf)
   - Yueqi Duan, Wenzhao Zheng, Xudong Lin, Jiwen Lu, Jie Zhou. CVPR'18
 - (HP) Virtual Class Enhanced Discriminative Embedding Learning [[pdf]](https://arxiv.org/abs/1811.12611)
   - Binghui Chen, Weihong Deng, Haifeng Shen. NIPS'18
