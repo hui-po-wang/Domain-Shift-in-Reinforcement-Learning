@@ -281,7 +281,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - Yueqi Duan, Wenzhao Zheng, Xudong Lin, Jiwen Lu, Jie Zhou. CVPR'18
 - (HP) Virtual Class Enhanced Discriminative Embedding Learning [[pdf]](https://arxiv.org/abs/1811.12611)
   - Binghui Chen, Weihong Deng, Haifeng Shen. NIPS'18
-- Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.pdf)
+- (HP) Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.pdf)
   - Zhirong Wu, Yuanjun Xiong, Stella Yu, Dahua Lin. CVPR'18
 - Deep Metric Learning with Angular Loss [[pdf]](https://arxiv.org/abs/1708.01682)
   - Jian Wang, Feng Zhou, Shilei Wen, Xiao Liu, Yuanqing Lin. ICCV'17
