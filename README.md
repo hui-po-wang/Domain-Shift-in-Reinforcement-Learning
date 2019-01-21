@@ -317,6 +317,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Bo Liu, Mandar Dixit, Roland Kwitt, Nuno Vasconcelos. CVPR'18-oral
 - Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning [[pdf]](https://vision.cornell.edu/se3/wp-content/uploads/2018/03/FGVC_CVPR_2018.pdf)
   - Yin Cui, Yang Song, Chen Sun, Andrew Howard, Serge Belongie. CVPR'18
+- Distant Domain Transfer Learning [[pdf]](http://www.ntu.edu.sg/home/sinnopan/publications/[AAAI17]Distant%20Domain%20Transfer%20Learning.pdf)
+  - Ben Tan, Yu Zhang, Sinno Jialin Pan, Qiang Yang. AAAI'17
 
 ## Few-Shot Learning
 - (WC) Matching Networks for One Shot Learning [[pdf]](https://arxiv.org/abs/1606.04080)
