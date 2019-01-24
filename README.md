@@ -289,6 +289,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Shota Horiguchi, Daiki Ikami, Kiyoharu Aizawa. ArXiv'17
 - Deep Metric Learning via Facility Location [[pdf]](https://arxiv.org/abs/1612.01213)
   - Hyun Oh Song, Stefanie Jegelka, Vivek Rathod, Kevin Murphy. CVPR'17
+- Metric Learning with Adaptive Density Discrimination [[pdf]](https://arxiv.org/abs/1511.05939)
+  - Rippel, Oren and Paluri, Manohar and Dollar, Piotr and Bourdev, Lubomir. ICLR'16
   
 ## Transfer Learning
 - Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1703.02949)
@@ -373,6 +375,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Andrew Gilbert, John Collomosse, Hailin Jin, Brian Price. CVPR'18
 - (HP) Self-Attention Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1805.08318)
   - Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena. ArXiv'18
+- OLE: Orthogonal low-rank embedding, a plug and play geometric loss for deep learning
+  - Lezama, Jos{\'e} and Qiu, Qiang and Mus{\'e}, Pablo and Sapiro, Guillermo. CVPR'18
   
   
 ## Key Papers
