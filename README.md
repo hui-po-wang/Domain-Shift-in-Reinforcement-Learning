@@ -377,7 +377,30 @@ A compilation of domain-shift related papers in reinforcement learning
   - Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena. ArXiv'18
 - OLE: Orthogonal low-rank embedding, a plug and play geometric loss for deep learning
   - Lezama, Jos{\'e} and Qiu, Qiang and Mus{\'e}, Pablo and Sapiro, Guillermo. CVPR'18
-  
+- Deep cost-sensitive and order-preserving feature learning for cross-population age estimation. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Deep_Cost-Sensitive_and_CVPR_2018_paper.pdf)
+  - Kai Li, Junliang Xing, Chi Su, Weiming Hu, Yundong Zhang, Stephen Maybank. CVPR'18
+- Learning superpixels with segmentation-aware affinity loss [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tu_Learning_Superpixels_With_CVPR_2018_paper.pdf)
+  - Wei-Chih Tu, Ming-Yu Liu, Varun Jampani, Deqing Sun, Shao-Yi Chien, Ming-Hsuan Yang, and Jan Kautz. CVPR'18
+- *Multi-Image Semantic Matching by Mining Consistent Features [[pdf]](https://arxiv.org/abs/1711.07641)
+  - Qianqian Wang, Xiaowei Zhou, Kostas Daniilidis. CVPR'18
+- A Two-Step Disentanglement Method [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hadad_A_Two-Step_Disentanglement_CVPR_2018_paper.pdf)
+  - Naama Hadad, Lior Wolf, Moni Shahar. CVPR'18
+- A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_A_Generative_Adversarial_CVPR_2018_paper.pdf)
+  - Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng, Ahmed Elgammal. CVPR'18
+- *Transductive Unbiased Embedding for Zero-Shot Learning [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_Transductive_Unbiased_Embedding_CVPR_2018_paper.pdf)
+  - Jie Song, Chengchao Shen, Yezhou Yang, Yang Liu, Mingli Song. CVPR'18
+- *Zero-Shot Visual Recognition using Semantics-Preserving Adversarial Embedding Networks [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Zero-Shot_Visual_Recognition_CVPR_2018_paper.pdf)
+  - Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang . CVPR'18
+- Global versus Localized Generative Adversarial Nets [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Global_Versus_Localized_CVPR_2018_paper.pdf)
+  - Guo-Jun Qi, Liheng Zhang, Hao Hu, Marzieh Edraki, Jingdong Wang, Xian-Sheng Hua. CVPR'18
+- Deep Adversarial Subspace Clustering [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Deep_Adversarial_Subspace_CVPR_2018_paper.pdf)
+  - Pan Zhou, Yunqing Hou, Jiashi Feng. CVPR'18
+- Normalized Cut Loss for Weakly-supervised CNN Segmentation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Normalized_Cut_Loss_CVPR_2018_paper.pdf)
+  - Meng Tang, Abdelaziz Djelouah, Federico Perazzi, Yuri Boykov, Christopher Schroers . CVPR'18
+- Exploring Disentangled Feature Representation Beyond Face Identification [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Exploring_Disentangled_Feature_CVPR_2018_paper.pdf)
+  - Yu Liu, Fangyin Wei, Jing Shao, Lu Sheng, Junjie Yan, Xiaogang Wang. CVPR'18
+- Decoupled Networks [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Decoupled_Networks_CVPR_2018_paper.pdf)
+  - Weiyang Liu, Zhen Liu, Zhiding Yu, Bo Dai, Rongmei Lin, Yisen Wang, James M. Rehg, Le Song. CVPR'18
   
 ## Key Papers
 - (JJ) Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping [[pdf]](https://arxiv.org/abs/1709.07857)
