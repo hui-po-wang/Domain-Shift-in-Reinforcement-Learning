@@ -401,6 +401,8 @@ A compilation of domain-shift related papers in reinforcement learning
   - Yu Liu, Fangyin Wei, Jing Shao, Lu Sheng, Junjie Yan, Xiaogang Wang. CVPR'18
 - Decoupled Networks [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Decoupled_Networks_CVPR_2018_paper.pdf)
   - Weiyang Liu, Zhen Liu, Zhiding Yu, Bo Dai, Rongmei Lin, Yisen Wang, James M. Rehg, Le Song. CVPR'18
+- *Zero-Shot Learning - The Good, the Bad and the Ugly [[pdf]](https://arxiv.org/abs/1703.04394)
+  - Yongqin Xian, Bernt Schiele, Zeynep Akata. CVPR'17
   
 ## Key Papers
 - (JJ) Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping [[pdf]](https://arxiv.org/abs/1709.07857)
