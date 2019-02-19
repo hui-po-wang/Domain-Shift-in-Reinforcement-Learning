@@ -17,6 +17,8 @@ A compilation of domain-shift related papers in reinforcement learning
 - [Metric-Learning](#metric-learning)
 - [Transfer-Learning](#transfer-learning)
 - [Few-Shot Learning](#few-shot-learning)
+  - [Zero-Shot Learning](#zero-shot-learning)
+- [Feature Learning](#feature-learning)
 - [Evaluating Performance of Policies](#evaluating-performance-of-policies)
 - [Self-Training](#self-training)
 - [Research Blogs](#research-blogs)
@@ -335,6 +337,35 @@ A compilation of domain-shift related papers in reinforcement learning
   - Akshay Mehrotra, Ambedkar Dukkipati. arXiv'17
 - Few-Shot Learning Through an Information Retrieval Lens [[pdf]](https://arxiv.org/abs/1707.02610)
   - Eleni Triantafillou, Richard Zemel, Raquel Urtasun. NIPS'17
+### Zero-shot learning
+- (HP) Zero-Shot Visual Recognition using Semantics-Preserving Adversarial Embedding Networks [[pdf]](https://arxiv.org/abs/1712.01928)
+  - Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang. CVPR'18
+- (HP) Transductive Unbiased Embedding for Zero-Shot Learning [[pdf]](https://arxiv.org/abs/1803.11320)
+  - Jie Song, Chengchao Shen, Yezhou Yang, Yang Liu, Mingli Song. CVPR'18
+- Preserving Semantic Relations for Zero-Shot Learning [[pdf]](https://arxiv.org/abs/1803.03049)
+  - Yashas Annadani, Soma Biswas. CVPR'18
+- Generalized Zero-Shot Learning with Deep Calibration Network [[pdf]](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network)
+  - Shichen Liu, Mingsheng Long, Jianmin Wang, Michael I. Jordan. NIPS'18
+- Domain-Invariant Projection Learning for Zero-Shot Recognition [[pdf]](http://papers.nips.cc/paper/7380-domain-invariant-projection-learning-for-zero-shot-recognition)
+  - An Zhao, Mingyu Ding, Jiechao Guan, Zhiwu Lu, Tao Xiang, Ji-Rong Wen. NIPS'18
+- A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts [[pdf]](https://arxiv.org/abs/1712.01381)
+  - Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng, Ahmed Elgammal. CVPR'18
+- Generalized Zero-Shot Learning via Synthesized Examples [[pdf]](https://arxiv.org/abs/1712.03878)
+  - Vinay Kumar Verma, Gundeep Arora, Ashish Mishra, Piyush Rai. CVPR'18
+- Feature Generating Networks for Zero-Shot Learning [[pdf]](https://arxiv.org/abs/1712.00981)
+  - Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata. CVPR'18
+- Discriminative Learning of Latent Features for Zero-Shot Recognition [[pdf]](https://arxiv.org/abs/1803.06731)
+  - Yan Li, Junge Zhang, Jianguo Zhang, Kaiqi Huang. CVPR'18
+- Zero-shot Domain Adaptation without Domain Semantic Descriptors [[pdf]](https://arxiv.org/abs/1807.02927)
+  - Atsutoshi Kumagai, Tomoharu Iwata. arXiv'18
+  
+## Feature Learning
+- (HP) Shuffle-then-assemble learning object-agnostic visual relationship features [[pdf]](https://arxiv.org/abs/1808.00171)
+  - Xu Yang, Hanwang Zhang, Jianfei Cai. CVPR'18
+- (HP) Learning Robust Representations by Projecting Superficial Statistics Out [[pdf]](https://openreview.net/forum?id=rJEjjoR9K7)
+  - Haohan Wang, Zexue He, Zachary C. Lipton, Eric P. Xing. ICLR'19
+- Tushar_Nagarajan_Attributes_as_Operators_ECCV_2018_paper. [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Tushar_Nagarajan_Attributes_as_Operators_ECCV_2018_paper.html)
+  - Tushar Nagarajan, Kristen Grauman. ECCV'18
 
 ## Evaluating performance of policies
 - Bootstrapping with models: Confidence intervals for off-policy evaluation [[pdf]](http://delivery.acm.org/10.1145/3100000/3091205/p538-hanna.pdf?ip=140.113.194.48&id=3091205&acc=ACTIVE%20SERVICE&key=AF37130DAFA4998B%2E7DDA227B4DBFAC43%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1520396005_74ef752694d46f6b30d4f9ba8d52b904)
