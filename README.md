@@ -342,11 +342,11 @@ A compilation of domain-shift related papers in reinforcement learning
   - Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang. CVPR'18
 - (HP) Transductive Unbiased Embedding for Zero-Shot Learning [[pdf]](https://arxiv.org/abs/1803.11320)
   - Jie Song, Chengchao Shen, Yezhou Yang, Yang Liu, Mingli Song. CVPR'18
-- Preserving Semantic Relations for Zero-Shot Learning [[pdf]](https://arxiv.org/abs/1803.03049)
+- (WC) Preserving Semantic Relations for Zero-Shot Learning [[pdf]](https://arxiv.org/abs/1803.03049)
   - Yashas Annadani, Soma Biswas. CVPR'18
 - Generalized Zero-Shot Learning with Deep Calibration Network [[pdf]](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network)
   - Shichen Liu, Mingsheng Long, Jianmin Wang, Michael I. Jordan. NIPS'18
-- Domain-Invariant Projection Learning for Zero-Shot Recognition [[pdf]](http://papers.nips.cc/paper/7380-domain-invariant-projection-learning-for-zero-shot-recognition)
+- (WC) Domain-Invariant Projection Learning for Zero-Shot Recognition [[pdf]](http://papers.nips.cc/paper/7380-domain-invariant-projection-learning-for-zero-shot-recognition)
   - An Zhao, Mingyu Ding, Jiechao Guan, Zhiwu Lu, Tao Xiang, Ji-Rong Wen. NIPS'18
 - A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts [[pdf]](https://arxiv.org/abs/1712.01381)
   - Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng, Ahmed Elgammal. CVPR'18
