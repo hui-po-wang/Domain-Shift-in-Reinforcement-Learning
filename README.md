@@ -350,7 +350,7 @@ A compilation of domain-shift related papers in reinforcement learning
   - An Zhao, Mingyu Ding, Jiechao Guan, Zhiwu Lu, Tao Xiang, Ji-Rong Wen. NIPS'18
 - A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts [[pdf]](https://arxiv.org/abs/1712.01381)
   - Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng, Ahmed Elgammal. CVPR'18
-- Generalized Zero-Shot Learning via Synthesized Examples [[pdf]](https://arxiv.org/abs/1712.03878)
+- (HP) Generalized Zero-Shot Learning via Synthesized Examples [[pdf]](https://arxiv.org/abs/1712.03878)
   - Vinay Kumar Verma, Gundeep Arora, Ashish Mishra, Piyush Rai. CVPR'18
 - Feature Generating Networks for Zero-Shot Learning [[pdf]](https://arxiv.org/abs/1712.00981)
   - Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata. CVPR'18
